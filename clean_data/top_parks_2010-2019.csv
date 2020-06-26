@@ -1,0 +1,63 @@
+ParkName,State,avg_visits,avg_tent,avg_backcountry
+Acadia,['ME'],2872666.5,133100.1,1275.3
+Arches,['UT'],1334062.5,22193.0,835.0
+Badlands,['SD'],951227.3,5021.0,1777.0
+Big Bend,['TX'],377153.8,49238.4,26267.6
+Biscayne,['FL'],509950.4,2574.9,0.0
+Black Canyon of the Gunnison,['CO'],239225.4,13545.3,1209.1
+Bryce Canyon,['UT'],1867144.0,38035.3,1961.0
+Canyonlands,['UT'],599384.7,13535.0,71755.3
+Capitol Reef,['UT'],906526.8,18632.7,2648.8
+Carlsbad Caverns,['NM'],429957.9,0.0,174.7
+Channel Islands,['CA'],317324.5,0.0,23680.6
+Congaree,['SC'],128784.6,0.0,825.7
+Crater Lake,['OR'],588563.2,4943.7,2758.7
+Cuyahoga Valley,['OH'],2251536.7,0.0,0.0
+Death Valley,['CA'],1213505.2,68421.6,340.0
+Denali & PRES,['AK'],522289.7,21315.5,36446.9
+Dry Tortugas,['FL'],64769.1,4497.8,0.0
+Everglades,['FL'],989212.7,6811.2,10850.8
+Gates of the Arctic & PRES,['AK'],10912.1,0.0,6868.9
+Gateway Arch,['MO'],1982639.3,0.0,0.0
+Glacier,['MT'],2537794.6,112786.4,31436.7
+Glacier Bay & PRES,['AK'],522075.3,750.1,5501.2
+Grand Canyon,['AZ'],5252921.8,151794.0,298720.8
+Grand Teton,['WY'],3007601.5,13.5,33400.0
+Great Basin,['NV'],118948.3,23519.8,649.4
+Great Sand Dunes & PRES,['CO'],347783.8,26381.6,3467.3
+Great Smoky Mountains,['TN'],10494546.4,156264.4,91421.2
+Guadalupe Mountains,['TX'],175446.5,9390.2,2898.4
+Haleakala,['HI'],1071580.1,10320.8,1837.8
+Hawaii Volcanoes,['HI'],1563914.1,3601.0,4312.2
+Hot Springs,['AR'],1425898.7,3247.6,0.0
+Indiana Dunes,['IN'],1850255.9,16044.3,0.0
+Isle Royale,['MI'],20323.6,4936.0,29017.6
+Joshua Tree,['CA'],2051616.4,204260.8,13973.8
+Katmai & PRES,['AK'],43923.0,2561.1,699.3
+Kenai Fjords,['AK'],310492.1,1175.2,666.2
+Kings Canyon,['CA'],592551.0,93528.9,15539.8
+Kobuk Valley,['AK'],12277.7,0.0,4792.4
+Lake Clark & PRES,['AK'],14913.9,0.0,3860.1
+Lassen Volcanic,['CA'],453176.8,57039.3,6704.2
+Mammoth Cave,['KY'],533182.5,35873.9,5077.6
+Mesa Verde,['CO'],544696.4,33231.3,0.0
+Mount Rainier,['WA'],1272209.5,67055.6,49011.9
+National Park of American Samoa,['AS'],25491.8,0.0,0.0
+North Cascades,['WA'],26423.2,0.0,22560.7
+Olympic,['WA'],3137142.4,126529.9,84219.4
+Petrified Forest,['AZ'],677784.9,0.0,626.6
+Pinnacles,['CA'],235338.0,0.0,0.0
+Redwood,['CA'],446973.2,3098.5,3156.8
+Rocky Mountain,['CO'],3815953.3,106735.2,38314.1
+Saguaro,['AZ'],783004.1,0.0,1842.9
+Sequoia,['CA'],1118361.2,129608.0,29451.2
+Shenandoah,['VA'],1297377.0,109212.0,42322.1
+Theodore Roosevelt,['ND'],641534.3,13799.2,677.8
+Virgin Islands,['VI'],368457.1,0.0,0.0
+Voyageurs,['MN'],230857.1,0.0,39527.3
+White Sands,['NM'],521899.4,0.0,3211.3
+Wind Cave,['SD'],582902.8,3722.4,314.0
+Wrangell-St. Elias & PRES,['AK'],75193.2,0.0,0.0
+Yellowstone,['WY'],3779045.3,90312.2,41781.6
+Yosemite,['CA'],4122831.0,486853.8,163664.8
+Zion,['UT'],3571925.3,121132.3,32307.0

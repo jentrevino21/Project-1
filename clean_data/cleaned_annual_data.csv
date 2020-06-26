@@ -1,0 +1,1176 @@
+,ParkName,ParkType,Region,State,Year,RecreationVisitsTotal,RecreationHoursTotal,TentCampersTotal,RVCampersTotal,BackcountryTotal
+275,Acadia,National Park,Northeast ,ME,2001,2516551,13467741,118545,24747,0
+287,Acadia,National Park,Northeast ,ME,2002,2558572,13683657,122340,22545,0
+299,Acadia,National Park,Northeast ,ME,2003,2431062,13012171,117369,21876,0
+311,Acadia,National Park,Northeast ,ME,2004,2207847,11822104,101577,19878,0
+323,Acadia,National Park,Northeast ,ME,2005,2051484,10568105,85815,19302,1157
+335,Acadia,National Park,Northeast ,ME,2006,2083588,10720555,96252,22299,1306
+347,Acadia,National Park,Northeast ,ME,2007,2202228,11331597,98586,23280,1091
+359,Acadia,National Park,Northeast ,ME,2008,2075857,10635395,101028,21198,1229
+371,Acadia,National Park,Northeast ,ME,2009,2227698,11447560,105042,22755,1037
+383,Acadia,National Park,Northeast ,ME,2010,2504208,12827516,121287,28821,974
+395,Acadia,National Park,Northeast ,ME,2011,2374645,12101384,117879,27519,1157
+407,Acadia,National Park,Northeast ,ME,2012,2431052,12458831,124482,26760,1316
+419,Acadia,National Park,Northeast ,ME,2013,2254922,11347331,114753,29025,1166
+431,Acadia,National Park,Northeast ,ME,2014,2563129,13085317,126474,33369,1230
+443,Acadia,National Park,Northeast ,ME,2015,2811184,14452151,135000,32094,1233
+455,Acadia,National Park,Northeast ,ME,2016,3303393,22698596,152811,46629,1324
+467,Acadia,National Park,Northeast ,ME,2017,3509271,24014370,152586,55812,1597
+479,Acadia,National Park,Northeast ,ME,2018,3537575,23613754,144744,58215,1472
+491,Acadia,National Park,Northeast ,ME,2019,3437286,23195664,140985,57696,1284
+767,Arches,National Park,Intermountain ,UT,2001,754026,3388006,29711,12466,414
+779,Arches,National Park,Intermountain ,UT,2002,769672,3433320,29450,12074,402
+791,Arches,National Park,Intermountain ,UT,2003,757781,3344489,28308,11974,341
+803,Arches,National Park,Intermountain ,UT,2004,733131,3360965,29524,13616,378
+815,Arches,National Park,Intermountain ,UT,2005,781670,3607089,32040,14380,471
+827,Arches,National Park,Intermountain ,UT,2006,833049,3743632,30090,15454,286
+839,Arches,National Park,Intermountain ,UT,2007,860181,3799550,29023,15081,277
+851,Arches,National Park,Intermountain ,UT,2008,928795,4006852,29299,14595,366
+863,Arches,National Park,Intermountain ,UT,2009,996312,4291467,30542,16411,808
+875,Arches,National Park,Intermountain ,UT,2010,1014405,4173920,23616,15478,923
+887,Arches,National Park,Intermountain ,UT,2011,1040758,4344187,26264,16643,1192
+899,Arches,National Park,Intermountain ,UT,2012,1070577,4397956,27002,14742,851
+911,Arches,National Park,Intermountain ,UT,2013,1082866,4432558,27705,14431,953
+923,Arches,National Park,Intermountain ,UT,2014,1284767,5005854,25252,15436,1211
+935,Arches,National Park,Intermountain ,UT,2015,1399247,5420170,27158,16565,1208
+947,Arches,National Park,Intermountain ,UT,2016,1585718,6049250,28046,18658,1174
+959,Arches,National Park,Intermountain ,UT,2017,1539028,4672677,1426,826,65
+971,Arches,National Park,Intermountain ,UT,2018,1663557,5906859,17938,16157,368
+983,Arches,National Park,Intermountain ,UT,2019,1659702,5912819,17523,16290,405
+1259,Badlands,National Park,Midwest ,SD,2001,955469,4297133,27574,11279,692
+1271,Badlands,National Park,Midwest ,SD,2002,908898,4036688,23192,10766,540
+1283,Badlands,National Park,Midwest ,SD,2003,871034,3938898,25622,11153,384
+1295,Badlands,National Park,Midwest ,SD,2004,936030,4178385,24225,12149,879
+1307,Badlands,National Park,Midwest ,SD,2005,909146,3995845,18668,8751,654
+1319,Badlands,National Park,Midwest ,SD,2006,840118,3695301,17578,8284,397
+1331,Badlands,National Park,Midwest ,SD,2007,886654,4073686,16211,16506,710
+1343,Badlands,National Park,Midwest ,SD,2008,845734,3689516,14787,7949,613
+1355,Badlands,National Park,Midwest ,SD,2009,933918,4197338,25388,12232,1410
+1367,Badlands,National Park,Midwest ,SD,2010,977778,4251417,3542,783,1658
+1379,Badlands,National Park,Midwest ,SD,2011,870741,3930808,2645,464,1578
+1391,Badlands,National Park,Midwest ,SD,2012,883406,3955172,2182,350,979
+1403,Badlands,National Park,Midwest ,SD,2013,892372,4158056,9318,2071,1429
+1415,Badlands,National Park,Midwest ,SD,2014,868094,4106567,8622,2740,1419
+1427,Badlands,National Park,Midwest ,SD,2015,989354,4531214,4627,856,1445
+1439,Badlands,National Park,Midwest ,SD,2016,996263,4703459,7934,1500,1410
+1451,Badlands,National Park,Midwest ,SD,2017,1054325,4908225,4930,859,2433
+1463,Badlands,National Park,Midwest ,SD,2018,1008942,4292825,2920,778,2926
+1475,Badlands,National Park,Midwest ,SD,2019,970998,4192793,3490,930,2493
+1751,Big Bend,National Park,Intermountain ,TX,2001,328927,8460924,35218,32493,28826
+1763,Big Bend,National Park,Intermountain ,TX,2002,327747,8854930,42236,34607,30418
+1775,Big Bend,National Park,Intermountain ,TX,2003,312384,7978597,33058,25630,29399
+1787,Big Bend,National Park,Intermountain ,TX,2004,357723,8737332,33537,33921,29720
+1799,Big Bend,National Park,Intermountain ,TX,2005,398583,9111468,32837,29739,28239
+1811,Big Bend,National Park,Intermountain ,TX,2006,298717,7521290,30388,29546,22668
+1823,Big Bend,National Park,Intermountain ,TX,2007,364856,8456245,32395,27400,21146
+1835,Big Bend,National Park,Intermountain ,TX,2008,362512,8346364,34308,24361,19306
+1847,Big Bend,National Park,Intermountain ,TX,2009,363905,8461636,38702,24039,20727
+1859,Big Bend,National Park,Intermountain ,TX,2010,372330,8681727,39257,24522,22712
+1871,Big Bend,National Park,Intermountain ,TX,2011,361862,7913527,36425,19139,16254
+1883,Big Bend,National Park,Intermountain ,TX,2012,292055,7080216,35853,22916,15648
+1895,Big Bend,National Park,Intermountain ,TX,2013,316953,7528114,39547,21962,19378
+1907,Big Bend,National Park,Intermountain ,TX,2014,314102,8033287,47035,21990,24723
+1919,Big Bend,National Park,Intermountain ,TX,2015,381747,9504644,53963,24420,32435
+1931,Big Bend,National Park,Intermountain ,TX,2016,388290,10278521,64593,27385,41793
+1943,Big Bend,National Park,Intermountain ,TX,2017,440276,11005448,65446,33529,42555
+1955,Big Bend,National Park,Intermountain ,TX,2018,440091,10353573,55863,33209,23858
+1967,Big Bend,National Park,Intermountain ,TX,2019,463832,10496353,54402,28845,23320
+2243,Biscayne,National Park,Southeast ,FL,2001,489343,1468029,0,0,0
+2255,Biscayne,National Park,Southeast ,FL,2002,513397,1540191,0,0,0
+2267,Biscayne,National Park,Southeast ,FL,2003,490031,1470093,0,0,0
+2279,Biscayne,National Park,Southeast ,FL,2004,478304,1434912,0,0,0
+2291,Biscayne,National Park,Southeast ,FL,2005,563728,1691184,0,0,0
+2303,Biscayne,National Park,Southeast ,FL,2006,608836,2018511,248,0,0
+2315,Biscayne,National Park,Southeast ,FL,2007,517442,1758365,2002,0,0
+2327,Biscayne,National Park,Southeast ,FL,2008,686062,2207855,807,0,0
+2339,Biscayne,National Park,Southeast ,FL,2009,437745,1512836,934,0,0
+2351,Biscayne,National Park,Southeast ,FL,2010,467612,1707680,4064,0,0
+2363,Biscayne,National Park,Southeast ,FL,2011,476077,1763868,4552,0,0
+2375,Biscayne,National Park,Southeast ,FL,2012,495613,1712156,3462,0,0
+2387,Biscayne,National Park,Southeast ,FL,2013,486848,1637011,2436,0,0
+2399,Biscayne,National Park,Southeast ,FL,2014,525745,1730164,2044,0,0
+2411,Biscayne,National Park,Southeast ,FL,2015,508164,1672449,1860,0,0
+2423,Biscayne,National Park,Southeast ,FL,2016,514709,1713035,2522,0,0
+2435,Biscayne,National Park,Southeast ,FL,2017,446961,1529665,2452,0,0
+2447,Biscayne,National Park,Southeast ,FL,2018,469253,1573531,2119,0,0
+2459,Biscayne,National Park,Southeast ,FL,2019,708522,2205175,238,0,0
+2735,Black Canyon of the Gunnison,National Park,Intermountain ,CO,2001,181018,976823,7318,4751,1729
+2747,Black Canyon of the Gunnison,National Park,Intermountain ,CO,2002,173687,904213,6355,3811,1884
+2759,Black Canyon of the Gunnison,National Park,Intermountain ,CO,2003,167247,960008,5726,7110,2037
+2771,Black Canyon of the Gunnison,National Park,Intermountain ,CO,2004,175581,993493,6948,6637,1782
+2783,Black Canyon of the Gunnison,National Park,Intermountain ,CO,2005,180814,960922,6691,5464,1635
+2795,Black Canyon of the Gunnison,National Park,Intermountain ,CO,2006,160450,859668,6410,4624,1829
+2807,Black Canyon of the Gunnison,National Park,Intermountain ,CO,2007,219576,1057141,7271,6401,1705
+2819,Black Canyon of the Gunnison,National Park,Intermountain ,CO,2008,160185,897618,7021,5540,1259
+2831,Black Canyon of the Gunnison,National Park,Intermountain ,CO,2009,171451,937746,7341,5771,1412
+2843,Black Canyon of the Gunnison,National Park,Intermountain ,CO,2010,176344,985916,8165,7089,1146
+2855,Black Canyon of the Gunnison,National Park,Intermountain ,CO,2011,168336,1024767,9919,7568,631
+2867,Black Canyon of the Gunnison,National Park,Intermountain ,CO,2012,192570,1141549,10057,8979,666
+2879,Black Canyon of the Gunnison,National Park,Intermountain ,CO,2013,175852,1072655,9949,8306,575
+2891,Black Canyon of the Gunnison,National Park,Intermountain ,CO,2014,183045,1051737,9685,7369,390
+2903,Black Canyon of the Gunnison,National Park,Intermountain ,CO,2015,209166,1226426,12490,8619,1090
+2915,Black Canyon of the Gunnison,National Park,Intermountain ,CO,2016,238018,1595539,19070,11878,1936
+2927,Black Canyon of the Gunnison,National Park,Intermountain ,CO,2017,307143,1746554,18795,12257,1708
+2939,Black Canyon of the Gunnison,National Park,Intermountain ,CO,2018,308962,1847721,19527,12531,2088
+2951,Black Canyon of the Gunnison,National Park,Intermountain ,CO,2019,432818,2194503,17796,12273,1861
+3227,Bryce Canyon,National Park,Intermountain ,UT,2001,1068619,8255085,33618,54690,1864
+3239,Bryce Canyon,National Park,Intermountain ,UT,2002,886436,7339928,40237,42370,1928
+3251,Bryce Canyon,National Park,Intermountain ,UT,2003,903760,7266085,37635,39395,1988
+3263,Bryce Canyon,National Park,Intermountain ,UT,2004,987253,7799166,46197,39444,1450
+3275,Bryce Canyon,National Park,Intermountain ,UT,2005,1017681,7762827,35793,42517,1548
+3287,Bryce Canyon,National Park,Intermountain ,UT,2006,890676,7239189,32045,47901,1291
+3299,Bryce Canyon,National Park,Intermountain ,UT,2007,1012563,8047845,34069,50455,1432
+3311,Bryce Canyon,National Park,Intermountain ,UT,2008,1043321,7936639,32661,49545,1300
+3323,Bryce Canyon,National Park,Intermountain ,UT,2009,1216377,9177322,37822,56155,1824
+3335,Bryce Canyon,National Park,Intermountain ,UT,2010,1285492,9419580,39591,52279,1918
+3347,Bryce Canyon,National Park,Intermountain ,UT,2011,1296000,9008216,35527,45014,1702
+3359,Bryce Canyon,National Park,Intermountain ,UT,2012,1385352,9580048,41299,50386,1712
+3371,Bryce Canyon,National Park,Intermountain ,UT,2013,1311875,9178420,37839,48291,1662
+3383,Bryce Canyon,National Park,Intermountain ,UT,2014,1435741,9679041,38054,50005,1449
+3395,Bryce Canyon,National Park,Intermountain ,UT,2015,1745804,11039361,36532,56658,2072
+3407,Bryce Canyon,National Park,Intermountain ,UT,2016,2365110,13615150,38192,62768,2684
+3419,Bryce Canyon,National Park,Intermountain ,UT,2017,2571684,14027927,33492,61386,2414
+3431,Bryce Canyon,National Park,Intermountain ,UT,2018,2679478,13867092,49747,29619,2603
+3443,Bryce Canyon,National Park,Intermountain ,UT,2019,2594904,12705683,30080,23653,1394
+3719,Canyonlands,National Park,Intermountain ,UT,2001,368592,3971673,19287,7787,70745
+3731,Canyonlands,National Park,Intermountain ,UT,2002,367078,3682054,16907,7512,62365
+3743,Canyonlands,National Park,Intermountain ,UT,2003,386986,3795399,16888,7939,64009
+3755,Canyonlands,National Park,Intermountain ,UT,2004,371706,3757107,16504,7514,65281
+3767,Canyonlands,National Park,Intermountain ,UT,2005,393381,3942040,15335,8035,69708
+3779,Canyonlands,National Park,Intermountain ,UT,2006,392537,3677169,15413,7690,59478
+3791,Canyonlands,National Park,Intermountain ,UT,2007,417560,3865946,13444,7770,64750
+3803,Canyonlands,National Park,Intermountain ,UT,2008,436715,4017992,14633,8454,68810
+3815,Canyonlands,National Park,Intermountain ,UT,2009,436241,3878863,14424,7486,62595
+3827,Canyonlands,National Park,Intermountain ,UT,2010,435908,3821727,13730,8019,61368
+3839,Canyonlands,National Park,Intermountain ,UT,2011,473773,3990376,15797,8097,60557
+3851,Canyonlands,National Park,Intermountain ,UT,2012,452952,3769342,14846,7275,58546
+3863,Canyonlands,National Park,Intermountain ,UT,2013,462242,3824426,13013,8073,60691
+3875,Canyonlands,National Park,Intermountain ,UT,2014,542431,4630684,14892,8810,77518
+3887,Canyonlands,National Park,Intermountain ,UT,2015,634607,4821672,13638,8470,74388
+3899,Canyonlands,National Park,Intermountain ,UT,2016,776218,5566971,13513,8288,86227
+3911,Canyonlands,National Park,Intermountain ,UT,2017,742271,5375294,13565,8519,82188
+3923,Canyonlands,National Park,Intermountain ,UT,2018,739449,5301793,13221,10517,78375
+3935,Canyonlands,National Park,Intermountain ,UT,2019,733996,5152749,9135,7785,77695
+4211,Capitol Reef,National Park,Intermountain ,UT,2001,527760,986968,16341,17928,1721
+4223,Capitol Reef,National Park,Intermountain ,UT,2002,525646,1021578,16380,23462,1646
+4235,Capitol Reef,National Park,Intermountain ,UT,2003,535441,1011468,15415,17986,1226
+4247,Capitol Reef,National Park,Intermountain ,UT,2004,549708,975395,15607,17779,1477
+4259,Capitol Reef,National Park,Intermountain ,UT,2005,550255,1011345,14154,17638,1544
+4271,Capitol Reef,National Park,Intermountain ,UT,2006,511511,949475,12147,17372,1158
+4283,Capitol Reef,National Park,Intermountain ,UT,2007,554907,1018507,14189,17876,1136
+4295,Capitol Reef,National Park,Intermountain ,UT,2008,604811,1090288,17195,17490,1435
+4307,Capitol Reef,National Park,Intermountain ,UT,2009,617208,1093735,14526,17710,1453
+4319,Capitol Reef,National Park,Intermountain ,UT,2010,662661,1073223,15996,18955,1652
+4331,Capitol Reef,National Park,Intermountain ,UT,2011,668834,1123186,14771,18434,1504
+4343,Capitol Reef,National Park,Intermountain ,UT,2012,673345,1127335,16733,16976,1810
+4355,Capitol Reef,National Park,Intermountain ,UT,2013,663670,1129956,15213,17565,1981
+4367,Capitol Reef,National Park,Intermountain ,UT,2014,786514,1378190,17147,21285,2081
+4379,Capitol Reef,National Park,Intermountain ,UT,2015,941029,1421877,18334,20695,2593
+4391,Capitol Reef,National Park,Intermountain ,UT,2016,1064904,1604678,19507,20917,2996
+4403,Capitol Reef,National Park,Intermountain ,UT,2017,1150165,1716156,18139,20824,3813
+4415,Capitol Reef,National Park,Intermountain ,UT,2018,1227627,1919904,24822,27143,4048
+4427,Capitol Reef,National Park,Intermountain ,UT,2019,1226519,1909572,25665,23993,4010
+4703,Carlsbad Caverns,National Park,Intermountain ,NM,2001,455621,1788843,0,0,157
+4715,Carlsbad Caverns,National Park,Intermountain ,NM,2002,476259,1870528,0,0,162
+4727,Carlsbad Caverns,National Park,Intermountain ,NM,2003,457631,1807931,0,0,160
+4739,Carlsbad Caverns,National Park,Intermountain ,NM,2004,419599,1648105,0,0,155
+4751,Carlsbad Caverns,National Park,Intermountain ,NM,2005,413786,1632485,0,0,137
+4763,Carlsbad Caverns,National Park,Intermountain ,NM,2006,407367,1616083,0,0,95
+4775,Carlsbad Caverns,National Park,Intermountain ,NM,2007,409560,1625936,0,0,93
+4787,Carlsbad Caverns,National Park,Intermountain ,NM,2008,400381,1580313,0,0,86
+4799,Carlsbad Caverns,National Park,Intermountain ,NM,2009,432639,1696043,0,0,114
+4811,Carlsbad Caverns,National Park,Intermountain ,NM,2010,428524,1675616,0,0,170
+4823,Carlsbad Caverns,National Park,Intermountain ,NM,2011,365000,1419948,0,0,107
+4835,Carlsbad Caverns,National Park,Intermountain ,NM,2012,381058,1479016,0,0,151
+4847,Carlsbad Caverns,National Park,Intermountain ,NM,2013,388566,1512477,0,0,176
+4859,Carlsbad Caverns,National Park,Intermountain ,NM,2014,397309,1530605,0,0,146
+4871,Carlsbad Caverns,National Park,Intermountain ,NM,2015,445720,1739670,0,0,135
+4883,Carlsbad Caverns,National Park,Intermountain ,NM,2016,466773,1808212,0,0,251
+4895,Carlsbad Caverns,National Park,Intermountain ,NM,2017,520026,1995967,0,0,202
+4907,Carlsbad Caverns,National Park,Intermountain ,NM,2018,465912,1796367,0,0,184
+4919,Carlsbad Caverns,National Park,Intermountain ,NM,2019,440691,1687906,0,0,225
+5195,Channel Islands,National Park,Pacific West ,CA,2001,520428,5318089,0,0,10326
+5207,Channel Islands,National Park,Pacific West ,CA,2002,613935,6872196,0,0,13338
+5219,Channel Islands,National Park,Pacific West ,CA,2003,585919,6226806,0,0,15318
+5231,Channel Islands,National Park,Pacific West ,CA,2004,537716,5943183,0,0,17086
+5242,Channel Islands,National Park,Pacific West ,CA,2005,434107,5403121,0,0,19174
+5254,Channel Islands,National Park,Pacific West ,CA,2006,375256,4337180,0,0,17692
+5266,Channel Islands,National Park,Pacific West ,CA,2007,360806,3819496,0,0,17801
+5278,Channel Islands,National Park,Pacific West ,CA,2008,332177,3393067,0,0,16949
+5290,Channel Islands,National Park,Pacific West ,CA,2009,348745,3351421,0,0,20197
+5302,Channel Islands,National Park,Pacific West ,CA,2010,277515,1826552,0,0,37071
+5314,Channel Islands,National Park,Pacific West ,CA,2011,242756,1660978,0,0,22831
+5326,Channel Islands,National Park,Pacific West ,CA,2012,249594,2154055,0,0,19785
+5338,Channel Islands,National Park,Pacific West ,CA,2013,212029,1635258,0,0,20032
+5350,Channel Islands,National Park,Pacific West ,CA,2014,342161,3525766,0,0,23068
+5362,Channel Islands,National Park,Pacific West ,CA,2015,324816,3311255,0,0,23326
+5374,Channel Islands,National Park,Pacific West ,CA,2016,364807,3465495,0,0,22885
+5386,Channel Islands,National Park,Pacific West ,CA,2017,383687,3932871,0,0,22934
+5398,Channel Islands,National Park,Pacific West ,CA,2018,366250,3725066,0,0,21463
+5410,Channel Islands,National Park,Pacific West ,CA,2019,409630,5411445,0,0,23411
+5614,Congaree,National Park,Southeast ,SC,2001,119738,385094,0,0,454
+5626,Congaree,National Park,Southeast ,SC,2002,101620,326222,0,0,439
+5638,Congaree,National Park,Southeast ,SC,2003,107114,342780,0,0,212
+5650,Congaree,National Park,Southeast ,SC,2004,126247,409626,0,0,477
+5662,Congaree,National Park,Southeast ,SC,2005,84301,293040,0,0,490
+5674,Congaree,National Park,Southeast ,SC,2006,134045,446632,0,0,686
+5686,Congaree,National Park,Southeast ,SC,2007,115524,404050,0,0,795
+5698,Congaree,National Park,Southeast ,SC,2008,104913,396095,0,0,1084
+5710,Congaree,National Park,Southeast ,SC,2009,122970,448469,0,0,861
+5722,Congaree,National Park,Southeast ,SC,2010,121208,463241,0,0,1174
+5734,Congaree,National Park,Southeast ,SC,2011,120166,470562,0,0,1176
+5746,Congaree,National Park,Southeast ,SC,2012,109685,436977,0,0,867
+5758,Congaree,National Park,Southeast ,SC,2013,120340,449741,0,0,579
+5770,Congaree,National Park,Southeast ,SC,2014,120122,423544,0,0,460
+5782,Congaree,National Park,Southeast ,SC,2015,87513,336062,0,0,387
+5794,Congaree,National Park,Southeast ,SC,2016,143843,562372,0,0,286
+5806,Congaree,National Park,Southeast ,SC,2017,159595,703583,0,0,1424
+5818,Congaree,National Park,Southeast ,SC,2018,145929,622647,0,0,1023
+5830,Congaree,National Park,Southeast ,SC,2019,159445,670956,0,0,881
+6106,Crater Lake,National Park,Pacific West ,OR,2001,457373,3030109,4292,0,2009
+6118,Crater Lake,National Park,Pacific West ,OR,2002,456620,3031424,6803,0,1464
+6130,Crater Lake,National Park,Pacific West ,OR,2003,479183,2995663,3123,0,1500
+6142,Crater Lake,National Park,Pacific West ,OR,2004,417066,2797701,4266,0,1830
+6154,Crater Lake,National Park,Pacific West ,OR,2005,447240,2556858,2999,0,1142
+6166,Crater Lake,National Park,Pacific West ,OR,2006,388972,2485062,2401,0,1095
+6178,Crater Lake,National Park,Pacific West ,OR,2007,468958,2942573,4165,0,1442
+6190,Crater Lake,National Park,Pacific West ,OR,2008,415686,2705216,2751,0,1349
+6202,Crater Lake,National Park,Pacific West ,OR,2009,446516,3041339,5076,0,1852
+6214,Crater Lake,National Park,Pacific West ,OR,2010,448319,3047840,5778,0,1815
+6226,Crater Lake,National Park,Pacific West ,OR,2011,423551,2902645,4241,0,1925
+6238,Crater Lake,National Park,Pacific West ,OR,2012,447251,3160375,6527,0,2066
+6250,Crater Lake,National Park,Pacific West ,OR,2013,523027,3539726,0,0,3022
+6262,Crater Lake,National Park,Pacific West ,OR,2014,535508,3543833,3313,0,2929
+6274,Crater Lake,National Park,Pacific West ,OR,2015,614712,4033484,7548,0,3253
+6286,Crater Lake,National Park,Pacific West ,OR,2016,756344,4456078,6280,0,4706
+6298,Crater Lake,National Park,Pacific West ,OR,2017,711749,3851809,4317,0,2851
+6310,Crater Lake,National Park,Pacific West ,OR,2018,720659,4103920,6739,0,2584
+6322,Crater Lake,National Park,Pacific West ,OR,2019,704512,3411782,4694,0,2436
+6598,Cuyahoga Valley,National Park,Midwest ,OH,2001,3123353,9478567,0,0,0
+6610,Cuyahoga Valley,National Park,Midwest ,OH,2002,3217935,10079269,0,0,0
+6622,Cuyahoga Valley,National Park,Midwest ,OH,2003,2879591,8981429,0,0,0
+6634,Cuyahoga Valley,National Park,Midwest ,OH,2004,3306175,10652294,0,0,0
+6646,Cuyahoga Valley,National Park,Midwest ,OH,2005,2533827,7764895,0,0,0
+6658,Cuyahoga Valley,National Park,Midwest ,OH,2006,2468816,7485631,0,0,0
+6670,Cuyahoga Valley,National Park,Midwest ,OH,2007,2486656,7453337,0,0,0
+6682,Cuyahoga Valley,National Park,Midwest ,OH,2008,2828233,7632052,0,0,0
+6694,Cuyahoga Valley,National Park,Midwest ,OH,2009,2589288,7030280,0,0,0
+6706,Cuyahoga Valley,National Park,Midwest ,OH,2010,2492670,7331201,0,0,0
+6718,Cuyahoga Valley,National Park,Midwest ,OH,2011,2161185,6497835,0,0,0
+6730,Cuyahoga Valley,National Park,Midwest ,OH,2012,2299722,7025556,0,0,0
+6742,Cuyahoga Valley,National Park,Midwest ,OH,2013,2103010,6422427,0,0,0
+6754,Cuyahoga Valley,National Park,Midwest ,OH,2014,2189849,6573737,0,0,0
+6766,Cuyahoga Valley,National Park,Midwest ,OH,2015,2284612,6798355,0,0,0
+6778,Cuyahoga Valley,National Park,Midwest ,OH,2016,2423390,7099454,0,0,0
+6790,Cuyahoga Valley,National Park,Midwest ,OH,2017,2226879,6389081,0,0,0
+6802,Cuyahoga Valley,National Park,Midwest ,OH,2018,2096053,6266804,0,0,0
+6814,Cuyahoga Valley,National Park,Midwest ,OH,2019,2237997,6555235,0,0,0
+7090,Death Valley,National Park,Pacific West ,CA,2001,1014636,7601696,44982,137046,0
+7102,Death Valley,National Park,Pacific West ,CA,2002,897596,7085885,44801,107481,0
+7114,Death Valley,National Park,Pacific West ,CA,2003,890375,7853970,48380,164888,0
+7126,Death Valley,National Park,Pacific West ,CA,2004,764820,6237523,32601,108064,0
+7138,Death Valley,National Park,Pacific West ,CA,2005,800113,7126998,70905,137431,0
+7150,Death Valley,National Park,Pacific West ,CA,2006,744440,6447925,48259,117029,0
+7162,Death Valley,National Park,Pacific West ,CA,2007,704122,6011496,43619,106160,0
+7174,Death Valley,National Park,Pacific West ,CA,2008,871938,6895474,50851,92604,0
+7186,Death Valley,National Park,Pacific West ,CA,2009,828574,6855787,55847,102113,0
+7198,Death Valley,National Park,Pacific West ,CA,2010,984775,7823343,70222,102720,0
+7210,Death Valley,National Park,Pacific West ,CA,2011,946867,7644868,64842,100756,0
+7222,Death Valley,National Park,Pacific West ,CA,2012,984568,7304790,45159,78338,0
+7234,Death Valley,National Park,Pacific West ,CA,2013,951972,6859469,53939,71322,0
+7246,Death Valley,National Park,Pacific West ,CA,2014,1101312,7698952,53868,67415,0
+7258,Death Valley,National Park,Pacific West ,CA,2015,1154843,8155299,64718,66445,0
+7270,Death Valley,National Park,Pacific West ,CA,2016,1296283,9769738,97443,106399,0
+7282,Death Valley,National Park,Pacific West ,CA,2017,1294827,9611792,80544,96071,0
+7294,Death Valley,National Park,Pacific West ,CA,2018,1678660,11753292,78970,97563,1485
+7306,Death Valley,National Park,Pacific West ,CA,2019,1740945,12025316,74511,97574,1915
+7582,Denali & PRES,National Park,Alaska,AK,2001,360191,5490820,13061,29809,35301
+7594,Denali & PRES,National Park,Alaska,AK,2002,311335,4232665,15517,12183,24115
+7606,Denali & PRES,National Park,Alaska,AK,2003,360189,5645752,24336,38234,33170
+7618,Denali & PRES,National Park,Alaska,AK,2004,404236,6447773,34541,51211,34016
+7630,Denali & PRES,National Park,Alaska,AK,2005,403520,6195588,29253,53198,30833
+7642,Denali & PRES,National Park,Alaska,AK,2006,415935,6191670,21904,47432,28623
+7654,Denali & PRES,National Park,Alaska,AK,2007,458308,6599605,23877,38428,30919
+7666,Denali & PRES,National Park,Alaska,AK,2008,432309,6469985,31715,28686,31621
+7678,Denali & PRES,National Park,Alaska,AK,2009,358041,5482934,18857,39920,29855
+7690,Denali & PRES,National Park,Alaska,AK,2010,378855,6152569,22570,43486,38625
+7702,Denali & PRES,National Park,Alaska,AK,2011,406582,6760554,20962,46213,39914
+7714,Denali & PRES,National Park,Alaska,AK,2012,388433,6605331,17129,50335,41685
+7726,Denali & PRES,National Park,Alaska,AK,2013,530922,7055859,21644,48758,37862
+7738,Denali & PRES,National Park,Alaska,AK,2014,531315,7052133,25873,45413,38443
+7750,Denali & PRES,National Park,Alaska,AK,2015,560757,7610285,54708,33897,35785
+7762,Denali & PRES,National Park,Alaska,AK,2016,587412,8143166,50269,21257,49309
+7774,Denali & PRES,National Park,Alaska,AK,2017,642809,8445731,0,0,32887
+7786,Denali & PRES,National Park,Alaska,AK,2018,594660,6546571,0,0,23748
+7798,Denali & PRES,National Park,Alaska,AK,2019,601152,6634699,0,0,26211
+8074,Dry Tortugas,National Park,Southeast ,FL,2001,79186,988296,6565,0,0
+8086,Dry Tortugas,National Park,Southeast ,FL,2002,79582,923367,3678,0,0
+8098,Dry Tortugas,National Park,Southeast ,FL,2003,74741,817344,10,0,0
+8110,Dry Tortugas,National Park,Southeast ,FL,2004,67917,780333,4676,0,0
+8122,Dry Tortugas,National Park,Southeast ,FL,2005,61765,714804,4312,0,0
+8134,Dry Tortugas,National Park,Southeast ,FL,2006,64122,734232,3052,0,0
+8146,Dry Tortugas,National Park,Southeast ,FL,2007,60895,690705,2174,0,0
+8158,Dry Tortugas,National Park,Southeast ,FL,2008,63947,788286,4118,0,0
+8170,Dry Tortugas,National Park,Southeast ,FL,2009,52011,664860,3394,0,0
+8182,Dry Tortugas,National Park,Southeast ,FL,2010,53890,664587,3362,0,0
+8194,Dry Tortugas,National Park,Southeast ,FL,2011,75171,878841,3822,0,0
+8206,Dry Tortugas,National Park,Southeast ,FL,2012,60550,689727,2982,0,0
+8218,Dry Tortugas,National Park,Southeast ,FL,2013,58401,650559,2836,0,0
+8230,Dry Tortugas,National Park,Southeast ,FL,2014,64865,687564,4438,0,0
+8242,Dry Tortugas,National Park,Southeast ,FL,2015,70862,793890,4546,0,0
+8254,Dry Tortugas,National Park,Southeast ,FL,2016,73661,839976,5934,0,0
+8266,Dry Tortugas,National Park,Southeast ,FL,2017,54281,676371,5342,0,0
+8278,Dry Tortugas,National Park,Southeast ,FL,2018,56810,715743,4930,0,0
+8290,Dry Tortugas,National Park,Southeast ,FL,2019,79200,613198,6786,0,0
+8566,Everglades,National Park,Southeast ,FL,2001,1049851,6248804,17103,24732,23411
+8578,Everglades,National Park,Southeast ,FL,2002,968909,6150982,20074,25157,22997
+8590,Everglades,National Park,Southeast ,FL,2003,1040648,5956242,22713,21392,22485
+8602,Everglades,National Park,Southeast ,FL,2004,1181355,6016852,18803,25638,18744
+8614,Everglades,National Park,Southeast ,FL,2005,1233837,4903595,21940,17182,15436
+8626,Everglades,National Park,Southeast ,FL,2006,954022,3171949,10281,15074,9610
+8638,Everglades,National Park,Southeast ,FL,2007,1074764,4383415,16769,14973,12075
+8650,Everglades,National Park,Southeast ,FL,2008,822118,3570464,14784,18454,17090
+8662,Everglades,National Park,Southeast ,FL,2009,900882,3609638,9306,10694,13062
+8674,Everglades,National Park,Southeast ,FL,2010,915538,3540615,8756,11107,12991
+8686,Everglades,National Park,Southeast ,FL,2011,934351,3320326,7041,10031,11546
+8698,Everglades,National Park,Southeast ,FL,2012,1141906,3704707,8918,12421,8456
+8710,Everglades,National Park,Southeast ,FL,2013,1047116,3505851,9130,9999,6437
+8722,Everglades,National Park,Southeast ,FL,2014,1110901,3763581,9984,11483,5875
+8734,Everglades,National Park,Southeast ,FL,2015,1077427,4171623,10635,10504,15961
+8746,Everglades,National Park,Southeast ,FL,2016,930907,3522144,8410,10799,12726
+8758,Everglades,National Park,Southeast ,FL,2017,1018557,3718824,5238,8137,17393
+8770,Everglades,National Park,Southeast ,FL,2018,597124,2555012,0,0,4391
+8782,Everglades,National Park,Southeast ,FL,2019,1118300,4963388,0,0,12732
+9022,Gates of the Arctic & PRES,National Park,Alaska,AK,2001,4505,34871,0,0,1366
+9034,Gates of the Arctic & PRES,National Park,Alaska,AK,2002,6648,66566,0,0,2655
+9046,Gates of the Arctic & PRES,National Park,Alaska,AK,2003,5075,105234,0,0,4293
+9058,Gates of the Arctic & PRES,National Park,Alaska,AK,2004,10282,133126,0,0,5345
+9070,Gates of the Arctic & PRES,National Park,Alaska,AK,2005,9459,109620,0,0,4383
+9082,Gates of the Arctic & PRES,National Park,Alaska,AK,2006,9982,149575,0,0,6040
+9094,Gates of the Arctic & PRES,National Park,Alaska,AK,2007,10942,136231,0,0,5461
+9106,Gates of the Arctic & PRES,National Park,Alaska,AK,2008,11397,155929,0,0,6274
+9118,Gates of the Arctic & PRES,National Park,Alaska,AK,2009,9975,116049,0,0,4638
+9130,Gates of the Arctic & PRES,National Park,Alaska,AK,2010,10840,177333,0,0,7175
+9142,Gates of the Arctic & PRES,National Park,Alaska,AK,2011,11623,163349,0,0,6576
+9154,Gates of the Arctic & PRES,National Park,Alaska,AK,2012,10899,142091,0,0,5708
+9166,Gates of the Arctic & PRES,National Park,Alaska,AK,2013,11012,188559,0,0,7646
+9178,Gates of the Arctic & PRES,National Park,Alaska,AK,2014,12669,154006,0,0,6166
+9190,Gates of the Arctic & PRES,National Park,Alaska,AK,2015,10745,232217,0,0,9473
+9202,Gates of the Arctic & PRES,National Park,Alaska,AK,2016,10047,195870,0,0,7971
+9214,Gates of the Arctic & PRES,National Park,Alaska,AK,2017,11177,157731,0,0,6355
+9226,Gates of the Arctic & PRES,National Park,Alaska,AK,2018,9591,185752,0,0,7561
+9238,Gates of the Arctic & PRES,National Park,Alaska,AK,2019,10518,102366,0,0,4058
+9514,Gateway Arch,National Park,Midwest ,MO,2001,3532524,14130096,0,0,0
+9526,Gateway Arch,National Park,Midwest ,MO,2002,3333454,13333808,0,0,0
+9538,Gateway Arch,National Park,Midwest ,MO,2003,2685219,10740870,0,0,0
+9550,Gateway Arch,National Park,Midwest ,MO,2004,2779350,11117398,0,0,0
+9562,Gateway Arch,National Park,Midwest ,MO,2005,2944976,11779898,0,0,0
+9574,Gateway Arch,National Park,Midwest ,MO,2006,2572072,10288287,0,0,0
+9586,Gateway Arch,National Park,Midwest ,MO,2007,2385387,9541543,0,0,0
+9598,Gateway Arch,National Park,Midwest ,MO,2008,1954810,7819233,0,0,0
+9610,Gateway Arch,National Park,Midwest ,MO,2009,2360109,9440424,0,0,0
+9622,Gateway Arch,National Park,Midwest ,MO,2010,2436110,9744437,0,0,0
+9634,Gateway Arch,National Park,Midwest ,MO,2011,2259020,9036075,0,0,0
+9646,Gateway Arch,National Park,Midwest ,MO,2012,2496726,9986905,0,0,0
+9658,Gateway Arch,National Park,Midwest ,MO,2013,2377258,9509027,0,0,0
+9670,Gateway Arch,National Park,Midwest ,MO,2014,1817091,7268369,0,0,0
+9682,Gateway Arch,National Park,Midwest ,MO,2015,1698656,6794623,0,0,0
+9694,Gateway Arch,National Park,Midwest ,MO,2016,1271855,5087422,0,0,0
+9706,Gateway Arch,National Park,Midwest ,MO,2017,1398188,5592754,0,0,0
+9718,Gateway Arch,National Park,Midwest ,MO,2018,2016180,8064734,0,0,0
+9730,Gateway Arch,National Park,Midwest ,MO,2019,2055309,8221233,0,0,0
+10006,Glacier Bay & PRES,National Park,Alaska,AK,2001,380114,5114337,1272,0,7504
+10018,Glacier Bay & PRES,National Park,Alaska,AK,2002,408143,5265583,798,0,0
+10030,Glacier Bay & PRES,National Park,Alaska,AK,2003,366319,4958220,479,0,7815
+10042,Glacier Bay & PRES,National Park,Alaska,AK,2004,353686,4514658,680,0,8671
+10054,Glacier Bay & PRES,National Park,Alaska,AK,2005,359829,4455412,424,0,4630
+10066,Glacier Bay & PRES,National Park,Alaska,AK,2006,413382,5190004,454,0,4674
+10078,Glacier Bay & PRES,National Park,Alaska,AK,2007,438211,5598509,582,0,5200
+10090,Glacier Bay & PRES,National Park,Alaska,AK,2008,418911,5328336,532,0,5888
+10102,Glacier Bay & PRES,National Park,Alaska,AK,2009,438361,5445787,389,0,4541
+10114,Glacier Bay & PRES,National Park,Alaska,AK,2010,444530,5537432,498,0,6122
+10126,Glacier Bay & PRES,National Park,Alaska,AK,2011,431986,5591713,810,0,4736
+10138,Glacier Bay & PRES,National Park,Alaska,AK,2012,454337,5901896,628,0,5381
+10150,Glacier Bay & PRES,National Park,Alaska,AK,2013,500590,6312194,807,0,4018
+10162,Glacier Bay & PRES,National Park,Alaska,AK,2014,500727,6804649,764,0,6303
+10174,Glacier Bay & PRES,National Park,Alaska,AK,2015,551353,7042830,658,0,6254
+10186,Glacier Bay & PRES,National Park,Alaska,AK,2016,520171,6727227,908,0,6161
+10198,Glacier Bay & PRES,National Park,Alaska,AK,2017,547057,7062494,901,0,5986
+10210,Glacier Bay & PRES,National Park,Alaska,AK,2018,597915,7703301,783,0,5840
+10222,Glacier Bay & PRES,National Park,Alaska,AK,2019,672087,8564620,744,0,4211
+10498,Glacier,National Park,Intermountain ,MT,2001,1680614,14062871,95034,76846,28915
+10510,Glacier,National Park,Intermountain ,MT,2002,1905689,15955942,90246,91137,27076
+10522,Glacier,National Park,Intermountain ,MT,2003,1664046,18291418,65515,65604,22958
+10534,Glacier,National Park,Intermountain ,MT,2004,2033933,23206703,80155,86373,27640
+10546,Glacier,National Park,Intermountain ,MT,2005,1925101,22668861,84698,93162,27025
+10558,Glacier,National Park,Intermountain ,MT,2006,1964399,23211882,86327,89856,26002
+10570,Glacier,National Park,Intermountain ,MT,2007,2083329,23935368,80372,87687,27993
+10582,Glacier,National Park,Intermountain ,MT,2008,1808027,21975153,88718,81879,26867
+10594,Glacier,National Park,Intermountain ,MT,2009,2031348,25031076,101408,106332,40855
+10606,Glacier,National Park,Intermountain ,MT,2010,2200048,26261913,101603,104832,30680
+10618,Glacier,National Park,Intermountain ,MT,2011,1853564,22399862,95741,101076,25715
+10630,Glacier,National Park,Intermountain ,MT,2012,2162035,25734458,102963,105534,26634
+10642,Glacier,National Park,Intermountain ,MT,2013,2190374,26548970,110427,111963,29132
+10654,Glacier,National Park,Intermountain ,MT,2014,2338528,27241749,110583,104379,29869
+10666,Glacier,National Park,Intermountain ,MT,2015,2366056,26988623,113599,99846,32797
+10678,Glacier,National Park,Intermountain ,MT,2016,2946681,32839584,136599,126933,38421
+10690,Glacier,National Park,Intermountain ,MT,2017,3305512,35871856,127661,111639,34011
+10702,Glacier,National Park,Intermountain ,MT,2018,2965309,32211332,110507,109566,32349
+10714,Glacier,National Park,Intermountain ,MT,2019,3049839,33979881,118181,126099,34759
+10990,Grand Canyon,National Park,Intermountain ,AZ,2001,4104809,61117744,170219,107308,250876
+11002,Grand Canyon,National Park,Intermountain ,AZ,2002,4001974,59380029,166098,107301,241738
+11014,Grand Canyon,National Park,Intermountain ,AZ,2003,4124900,61233911,164143,106530,244271
+11026,Grand Canyon,National Park,Intermountain ,AZ,2004,4326234,64031258,161427,117221,255617
+11038,Grand Canyon,National Park,Intermountain ,AZ,2005,4401522,68652205,149193,115715,238381
+11050,Grand Canyon,National Park,Intermountain ,AZ,2006,4279439,66375126,140507,121258,244413
+11062,Grand Canyon,National Park,Intermountain ,AZ,2007,4413668,68676315,141786,100735,282663
+11074,Grand Canyon,National Park,Intermountain ,AZ,2008,4425314,69203226,141971,101075,314304
+11086,Grand Canyon,National Park,Intermountain ,AZ,2009,4348068,67796268,148065,102273,276150
+11098,Grand Canyon,National Park,Intermountain ,AZ,2010,4388386,69072777,155038,95626,295949
+11110,Grand Canyon,National Park,Intermountain ,AZ,2011,4298178,67886575,206850,126310,291833
+11122,Grand Canyon,National Park,Intermountain ,AZ,2012,4421352,69877743,150673,69667,300418
+11134,Grand Canyon,National Park,Intermountain ,AZ,2013,4564840,72478880,111229,53446,234878
+11146,Grand Canyon,National Park,Intermountain ,AZ,2014,4756771,74963591,73502,34904,269236
+11158,Grand Canyon,National Park,Intermountain ,AZ,2015,5520736,87141657,207490,101227,293866
+11170,Grand Canyon,National Park,Intermountain ,AZ,2016,5969811,94286572,206626,88600,330703
+11182,Grand Canyon,National Park,Intermountain ,AZ,2017,6254238,98614576,147320,70862,312503
+11194,Grand Canyon,National Park,Intermountain ,AZ,2018,6380495,100506766,139004,68000,337790
+11206,Grand Canyon,National Park,Intermountain ,AZ,2019,5974411,93995133,120208,63565,320032
+11482,Grand Teton,National Park,Intermountain ,WY,2001,2535108,17887033,113720,100219,32700
+11494,Grand Teton,National Park,Intermountain ,WY,2002,2612629,18468552,115963,114846,31975
+11506,Grand Teton,National Park,Intermountain ,WY,2003,2355693,17308839,106042,119023,12949
+11518,Grand Teton,National Park,Intermountain ,WY,2004,2360373,16670899,94693,103937,27752
+11530,Grand Teton,National Park,Intermountain ,WY,2005,2463442,16791132,69,974,22424
+11542,Grand Teton,National Park,Intermountain ,WY,2006,2406476,18009273,383,1973,26858
+11554,Grand Teton,National Park,Intermountain ,WY,2007,2588574,19204675,0,0,29906
+11566,Grand Teton,National Park,Intermountain ,WY,2008,2485987,18255756,66,366,27521
+11578,Grand Teton,National Park,Intermountain ,WY,2009,2580081,18511233,92,904,30731
+11590,Grand Teton,National Park,Intermountain ,WY,2010,2669374,18102627,0,0,30597
+11602,Grand Teton,National Park,Intermountain ,WY,2011,2587437,17189885,0,0,28216
+11614,Grand Teton,National Park,Intermountain ,WY,2012,2705256,17777932,0,0,30214
+11626,Grand Teton,National Park,Intermountain ,WY,2013,2688794,18317594,10,56,30157
+11638,Grand Teton,National Park,Intermountain ,WY,2014,2791392,19098008,46,459,29524
+11650,Grand Teton,National Park,Intermountain ,WY,2015,3149921,21758918,0,0,33798
+11662,Grand Teton,National Park,Intermountain ,WY,2016,3270076,20161755,0,0,36206
+11674,Grand Teton,National Park,Intermountain ,WY,2017,3317000,22460367,79,205,40193
+11686,Grand Teton,National Park,Intermountain ,WY,2018,3491151,19176275,0,0,38803
+11698,Grand Teton,National Park,Intermountain ,WY,2019,3405614,21202805,0,0,36292
+11974,Great Basin,National Park,Pacific West ,NV,2001,81712,1362042,22480,14073,211
+11986,Great Basin,National Park,Pacific West ,NV,2002,85777,1147194,21196,13810,200
+11998,Great Basin,National Park,Pacific West ,NV,2003,87020,1065038,18991,12943,148
+12010,Great Basin,National Park,Pacific West ,NV,2004,79879,844920,13233,10185,355
+12022,Great Basin,National Park,Pacific West ,NV,2005,77741,927417,15551,11893,191
+12034,Great Basin,National Park,Pacific West ,NV,2006,78524,887612,14056,10821,304
+12046,Great Basin,National Park,Pacific West ,NV,2007,81364,948229,14335,11780,420
+12058,Great Basin,National Park,Pacific West ,NV,2008,69235,813723,14248,8647,392
+12070,Great Basin,National Park,Pacific West ,NV,2009,84974,959031,16295,9817,445
+12082,Great Basin,National Park,Pacific West ,NV,2010,88870,1110478,18523,11716,613
+12094,Great Basin,National Park,Pacific West ,NV,2011,91451,1117536,21090,11256,674
+12106,Great Basin,National Park,Pacific West ,NV,2012,94850,1125884,21271,11340,638
+12118,Great Basin,National Park,Pacific West ,NV,2013,92893,1099280,20674,10924,691
+12130,Great Basin,National Park,Pacific West ,NV,2014,107526,1215881,22621,12147,1063
+12142,Great Basin,National Park,Pacific West ,NV,2015,116123,1292404,24014,13151,1017
+12154,Great Basin,National Park,Pacific West ,NV,2016,144846,1441955,26743,14748,1067
+12166,Great Basin,National Park,Pacific West ,NV,2017,168028,1440218,26769,14793,403
+12178,Great Basin,National Park,Pacific West ,NV,2018,153094,1636468,32758,19348,280
+12190,Great Basin,National Park,Pacific West ,NV,2019,131802,1282751,20735,17813,48
+12466,Great Sand Dunes & PRES,National Park,Intermountain ,CO,2001,277523,1746337,23625,14206,1982
+12478,Great Sand Dunes & PRES,National Park,Intermountain ,CO,2002,234776,1441037,20926,11891,1470
+12490,Great Sand Dunes & PRES,National Park,Intermountain ,CO,2003,251375,1627851,23514,13065,2122
+12502,Great Sand Dunes & PRES,National Park,Intermountain ,CO,2004,267204,1654127,23418,13482,1808
+12514,Great Sand Dunes & PRES,National Park,Intermountain ,CO,2005,279589,1749857,23762,14682,1804
+12526,Great Sand Dunes & PRES,National Park,Intermountain ,CO,2006,258660,1586854,22464,11775,1651
+12538,Great Sand Dunes & PRES,National Park,Intermountain ,CO,2007,285121,1764739,24731,14906,2309
+12550,Great Sand Dunes & PRES,National Park,Intermountain ,CO,2008,273903,1745729,26763,11745,2119
+12562,Great Sand Dunes & PRES,National Park,Intermountain ,CO,2009,289955,1928200,29028,13498,2355
+12574,Great Sand Dunes & PRES,National Park,Intermountain ,CO,2010,283284,1900386,27423,13528,2171
+12586,Great Sand Dunes & PRES,National Park,Intermountain ,CO,2011,280058,1795935,25400,13688,2201
+12598,Great Sand Dunes & PRES,National Park,Intermountain ,CO,2012,254674,1514851,21682,10504,2613
+12610,Great Sand Dunes & PRES,National Park,Intermountain ,CO,2013,242841,1360664,17949,7326,2300
+12622,Great Sand Dunes & PRES,National Park,Intermountain ,CO,2014,271774,1868604,25881,15180,3405
+12634,Great Sand Dunes & PRES,National Park,Intermountain ,CO,2015,299513,1993753,28734,15028,3754
+12646,Great Sand Dunes & PRES,National Park,Intermountain ,CO,2016,388308,2335959,30757,17532,4508
+12658,Great Sand Dunes & PRES,National Park,Intermountain ,CO,2017,486935,2308335,26782,14972,4313
+12670,Great Sand Dunes & PRES,National Park,Intermountain ,CO,2018,442905,2486557,29832,19665,4475
+12682,Great Sand Dunes & PRES,National Park,Intermountain ,CO,2019,527546,2716008,29376,21867,4933
+12958,Great Smoky Mountains,National Park,Southeast ,TN,2001,9197697,68473293,146724,125147,76919
+12970,Great Smoky Mountains,National Park,Southeast ,TN,2002,9316420,69481779,154853,129195,77816
+12982,Great Smoky Mountains,National Park,Southeast ,TN,2003,9366845,69686956,154490,126815,73124
+12994,Great Smoky Mountains,National Park,Southeast ,TN,2004,9167046,67904332,136228,122959,73787
+13006,Great Smoky Mountains,National Park,Southeast ,TN,2005,9192477,67983889,135132,120448,69985
+13018,Great Smoky Mountains,National Park,Southeast ,TN,2006,9289215,68758589,136994,120825,70193
+13030,Great Smoky Mountains,National Park,Southeast ,TN,2007,9372253,70060490,163489,134112,70215
+13042,Great Smoky Mountains,National Park,Southeast ,TN,2008,9044010,67205786,142849,118981,71381
+13054,Great Smoky Mountains,National Park,Southeast ,TN,2009,9491437,70796932,154852,134115,79182
+13066,Great Smoky Mountains,National Park,Southeast ,TN,2010,9463538,70486609,154504,128991,79480
+13078,Great Smoky Mountains,National Park,Southeast ,TN,2011,9008830,67168799,145077,108732,90444
+13090,Great Smoky Mountains,National Park,Southeast ,TN,2012,9685829,71904763,152056,118522,84236
+13102,Great Smoky Mountains,National Park,Southeast ,TN,2013,9354695,68703424,128259,103881,70407
+13114,Great Smoky Mountains,National Park,Southeast ,TN,2014,10099276,74606705,151150,113373,86153
+13126,Great Smoky Mountains,National Park,Southeast ,TN,2015,10712674,79442309,172984,117177,97629
+13138,Great Smoky Mountains,National Park,Southeast ,TN,2016,11312786,83859719,190574,111680,109349
+13150,Great Smoky Mountains,National Park,Southeast ,TN,2017,11338893,83343604,160464,110097,104352
+13162,Great Smoky Mountains,National Park,Southeast ,TN,2018,11421200,83657339,152167,113649,97593
+13174,Great Smoky Mountains,National Park,Southeast ,TN,2019,12547743,91203583,155409,113540,94569
+13450,Guadalupe Mountains,National Park,Intermountain ,TX,2001,222307,543459,9973,5445,2853
+13462,Guadalupe Mountains,National Park,Intermountain ,TX,2002,202911,519804,10131,5223,2919
+13474,Guadalupe Mountains,National Park,Intermountain ,TX,2003,181357,470880,9471,5039,2795
+13486,Guadalupe Mountains,National Park,Intermountain ,TX,2004,182351,436248,8004,4653,2263
+13498,Guadalupe Mountains,National Park,Intermountain ,TX,2005,170383,415840,7912,4213,2035
+13510,Guadalupe Mountains,National Park,Intermountain ,TX,2006,174157,453250,8606,4839,2487
+13522,Guadalupe Mountains,National Park,Intermountain ,TX,2007,165110,415307,8509,4545,1855
+13534,Guadalupe Mountains,National Park,Intermountain ,TX,2008,163709,438552,9516,4616,2579
+13546,Guadalupe Mountains,National Park,Intermountain ,TX,2009,198882,466373,10052,4947,2405
+13558,Guadalupe Mountains,National Park,Intermountain ,TX,2010,192210,465480,8805,4679,2494
+13570,Guadalupe Mountains,National Park,Intermountain ,TX,2011,152546,362942,6893,3575,2235
+13582,Guadalupe Mountains,National Park,Intermountain ,TX,2012,159360,409976,9042,4150,1742
+13594,Guadalupe Mountains,National Park,Intermountain ,TX,2013,145670,444032,8200,3589,3621
+13606,Guadalupe Mountains,National Park,Intermountain ,TX,2014,166868,474660,7719,5073,3188
+13618,Guadalupe Mountains,National Park,Intermountain ,TX,2015,169535,438570,9175,4816,2507
+13630,Guadalupe Mountains,National Park,Intermountain ,TX,2016,181839,488954,10654,6254,2954
+13642,Guadalupe Mountains,National Park,Intermountain ,TX,2017,225257,558124,12100,7183,3896
+13654,Guadalupe Mountains,National Park,Intermountain ,TX,2018,172347,507354,10693,6437,3509
+13666,Guadalupe Mountains,National Park,Intermountain ,TX,2019,188833,441192,10621,6383,2838
+13942,Haleakala,National Park,Pacific West ,HI,2001,1410974,3388372,17644,0,2705
+13954,Haleakala,National Park,Pacific West ,HI,2002,1521080,3573137,16849,0,1877
+13966,Haleakala,National Park,Pacific West ,HI,2003,1444668,3256008,10978,0,1562
+13978,Haleakala,National Park,Pacific West ,HI,2004,1455477,3142962,8621,0,1416
+13990,Haleakala,National Park,Pacific West ,HI,2005,1474681,3155308,11050,0,1395
+14002,Haleakala,National Park,Pacific West ,HI,2006,1426068,3565232,12140,0,1324
+14014,Haleakala,National Park,Pacific West ,HI,2007,1322817,3115871,14168,0,1521
+14026,Haleakala,National Park,Pacific West ,HI,2008,1185068,2985845,14328,0,1480
+14038,Haleakala,National Park,Pacific West ,HI,2009,1109104,2778425,11141,0,1671
+14050,Haleakala,National Park,Pacific West ,HI,2010,1105606,2903983,16112,0,1260
+14062,Haleakala,National Park,Pacific West ,HI,2011,956989,2589763,15908,0,1562
+14074,Haleakala,National Park,Pacific West ,HI,2012,1094668,2946356,15545,0,1587
+14086,Haleakala,National Park,Pacific West ,HI,2013,785300,2018830,8045,0,628
+14098,Haleakala,National Park,Pacific West ,HI,2014,1142040,2790208,7907,0,1375
+14110,Haleakala,National Park,Pacific West ,HI,2015,1216772,2939484,7896,0,2205
+14122,Haleakala,National Park,Pacific West ,HI,2016,1263558,3003665,8332,0,2392
+14134,Haleakala,National Park,Pacific West ,HI,2017,1112390,2717910,7191,0,2877
+14146,Haleakala,National Park,Pacific West ,HI,2018,1044084,2534627,7201,0,2876
+14158,Haleakala,National Park,Pacific West ,HI,2019,994394,2289074,9071,0,1616
+14434,Hawaii Volcanoes,National Park,Pacific West ,HI,2001,1343286,8890473,9684,554,3715
+14446,Hawaii Volcanoes,National Park,Pacific West ,HI,2002,1110998,7920390,7926,326,4169
+14458,Hawaii Volcanoes,National Park,Pacific West ,HI,2003,1122524,8106773,9680,355,5691
+14470,Hawaii Volcanoes,National Park,Pacific West ,HI,2004,1307391,8753686,6979,440,5070
+14482,Hawaii Volcanoes,National Park,Pacific West ,HI,2005,1661196,10705748,10011,537,4448
+14494,Hawaii Volcanoes,National Park,Pacific West ,HI,2006,1612246,10758733,17768,826,5345
+14506,Hawaii Volcanoes,National Park,Pacific West ,HI,2007,1467779,10045427,10981,293,4215
+14518,Hawaii Volcanoes,National Park,Pacific West ,HI,2008,1270538,8658457,8454,397,4729
+14530,Hawaii Volcanoes,National Park,Pacific West ,HI,2009,1233105,8406319,10094,492,5236
+14542,Hawaii Volcanoes,National Park,Pacific West ,HI,2010,1304667,8087739,8131,606,4501
+14554,Hawaii Volcanoes,National Park,Pacific West ,HI,2011,1352123,8404568,8811,757,4235
+14566,Hawaii Volcanoes,National Park,Pacific West ,HI,2012,1483928,9173701,8300,890,4466
+14578,Hawaii Volcanoes,National Park,Pacific West ,HI,2013,1583209,9720192,3745,481,4660
+14590,Hawaii Volcanoes,National Park,Pacific West ,HI,2014,1693005,10523138,546,99,4621
+14602,Hawaii Volcanoes,National Park,Pacific West ,HI,2015,1832660,11379532,1661,0,4903
+14614,Hawaii Volcanoes,National Park,Pacific West ,HI,2016,1887580,11646416,1697,0,5178
+14626,Hawaii Volcanoes,National Park,Pacific West ,HI,2017,2016702,12543575,1536,53,4755
+14638,Hawaii Volcanoes,National Park,Pacific West ,HI,2018,1116891,6650420,492,6,2145
+14650,Hawaii Volcanoes,National Park,Pacific West ,HI,2019,1368376,8491902,1091,41,3658
+14926,Hot Springs,National Park,Midwest ,AR,2001,1296786,889727,2968,2564,0
+14938,Hot Springs,National Park,Midwest ,AR,2002,1440227,986675,3072,2988,0
+14950,Hot Springs,National Park,Midwest ,AR,2003,1561311,862050,3481,2824,0
+14962,Hot Springs,National Park,Midwest ,AR,2004,1418735,954543,3088,2815,0
+14974,Hot Springs,National Park,Midwest ,AR,2005,1340160,3018664,3175,2975,0
+14986,Hot Springs,National Park,Midwest ,AR,2006,1273456,3101429,3175,2975,0
+14998,Hot Springs,National Park,Midwest ,AR,2007,1300152,2955784,3990,2295,0
+15010,Hot Springs,National Park,Midwest ,AR,2008,1238147,2757018,4771,1693,0
+15022,Hot Springs,National Park,Midwest ,AR,2009,1284707,2856583,4597,5018,0
+15034,Hot Springs,National Park,Midwest ,AR,2010,1311807,3034292,4086,8323,0
+15046,Hot Springs,National Park,Midwest ,AR,2011,1396354,3229927,4570,9373,0
+15058,Hot Springs,National Park,Midwest ,AR,2012,1302505,2976518,3050,6938,0
+15070,Hot Springs,National Park,Midwest ,AR,2013,1325719,3017166,4273,10827,0
+15082,Hot Springs,National Park,Midwest ,AR,2014,1424484,3099890,3901,15705,0
+15094,Hot Springs,National Park,Midwest ,AR,2015,1418162,3310306,4735,19413,0
+15106,Hot Springs,National Park,Midwest ,AR,2016,1544300,3530802,3706,20315,0
+15118,Hot Springs,National Park,Midwest ,AR,2017,1561616,1401560,1467,22543,0
+15130,Hot Springs,National Park,Midwest ,AR,2018,1506887,1341461,1233,22712,0
+15142,Hot Springs,National Park,Midwest ,AR,2019,1467153,1352979,1455,24251,0
+15418,Indiana Dunes,National Park,Midwest ,IN,2001,1735404,4870023,16961,4607,0
+15430,Indiana Dunes,National Park,Midwest ,IN,2002,1989941,5491925,19121,5183,0
+15442,Indiana Dunes,National Park,Midwest ,IN,2003,1953449,5303674,17419,5494,0
+15454,Indiana Dunes,National Park,Midwest ,IN,2004,1810330,5042769,22819,6858,0
+15466,Indiana Dunes,National Park,Midwest ,IN,2005,2127336,5719434,19685,3928,0
+15478,Indiana Dunes,National Park,Midwest ,IN,2006,1938132,5141754,16597,3742,0
+15490,Indiana Dunes,National Park,Midwest ,IN,2007,1972344,5226674,17323,3974,0
+15502,Indiana Dunes,National Park,Midwest ,IN,2008,1833596,5147366,18501,4503,0
+15514,Indiana Dunes,National Park,Midwest ,IN,2009,1944568,5424751,18690,4241,0
+15526,Indiana Dunes,National Park,Midwest ,IN,2010,2150345,5870781,19065,4375,0
+15538,Indiana Dunes,National Park,Midwest ,IN,2011,1840513,5069490,17978,4845,0
+15550,Indiana Dunes,National Park,Midwest ,IN,2012,1889381,5026362,16538,3170,0
+15562,Indiana Dunes,National Park,Midwest ,IN,2013,1681695,4569298,14051,4014,0
+15574,Indiana Dunes,National Park,Midwest ,IN,2014,1553372,4136390,11643,3655,0
+15586,Indiana Dunes,National Park,Midwest ,IN,2015,1640195,4418234,14746,4089,0
+15598,Indiana Dunes,National Park,Midwest ,IN,2016,1698223,4536913,16716,3790,0
+15610,Indiana Dunes,National Park,Midwest ,IN,2017,2158471,5796301,20082,4885,0
+15622,Indiana Dunes,National Park,Midwest ,IN,2018,1756079,4700315,13308,4598,0
+15634,Indiana Dunes,National Park,Midwest ,IN,2019,2134285,5721279,16316,6468,0
+15910,Isle Royale,National Park,Midwest ,MI,2001,19431,1620328,6731,0,49077
+15922,Isle Royale,National Park,Midwest ,MI,2002,19463,1395963,5720,0,40389
+15934,Isle Royale,National Park,Midwest ,MI,2003,17800,1376382,5545,0,40069
+15946,Isle Royale,National Park,Midwest ,MI,2004,17276,1275960,4887,0,36706
+15958,Isle Royale,National Park,Midwest ,MI,2005,17398,1318880,4928,0,36889
+15970,Isle Royale,National Park,Midwest ,MI,2006,17070,1265521,5230,0,35439
+15982,Isle Royale,National Park,Midwest ,MI,2007,15973,1249925,5135,0,35400
+15994,Isle Royale,National Park,Midwest ,MI,2008,14038,1127451,5096,0,32289
+16006,Isle Royale,National Park,Midwest ,MI,2009,14653,1040114,4551,0,28864
+16018,Isle Royale,National Park,Midwest ,MI,2010,15793,1196810,5502,0,34116
+16030,Isle Royale,National Park,Midwest ,MI,2011,15892,1190577,5130,0,34221
+16042,Isle Royale,National Park,Midwest ,MI,2012,16663,1176138,5463,0,33808
+16054,Isle Royale,National Park,Midwest ,MI,2013,16274,1137345,5289,0,32343
+16066,Isle Royale,National Park,Midwest ,MI,2014,14560,1097272,5758,0,29662
+16078,Isle Royale,National Park,Midwest ,MI,2015,18684,1094905,5133,0,30072
+16090,Isle Royale,National Park,Midwest ,MI,2016,24966,1214443,3160,0,22604
+16102,Isle Royale,National Park,Midwest ,MI,2017,28196,1239498,3850,0,21693
+16114,Isle Royale,National Park,Midwest ,MI,2018,25798,1254990,5173,0,24758
+16126,Isle Royale,National Park,Midwest ,MI,2019,26410,1335648,4902,0,26899
+16402,Joshua Tree,National Park,Pacific West ,CA,2001,1280917,9153232,128532,44856,5868
+16414,Joshua Tree,National Park,Pacific West ,CA,2002,1178376,9629049,175536,47526,6919
+16426,Joshua Tree,National Park,Pacific West ,CA,2003,1283346,10157201,191480,44085,5384
+16438,Joshua Tree,National Park,Pacific West ,CA,2004,1243659,9072970,148168,33126,7407
+16450,Joshua Tree,National Park,Pacific West ,CA,2005,1375111,10033674,148036,61872,5875
+16462,Joshua Tree,National Park,Pacific West ,CA,2006,1256421,9295494,150400,39324,5497
+16474,Joshua Tree,National Park,Pacific West ,CA,2007,1298979,9669763,157028,40032,4739
+16486,Joshua Tree,National Park,Pacific West ,CA,2008,1392446,9481131,131380,34809,3865
+16498,Joshua Tree,National Park,Pacific West ,CA,2009,1304471,9866129,159456,37821,5592
+16510,Joshua Tree,National Park,Pacific West ,CA,2010,1434976,10707974,165152,43704,8041
+16522,Joshua Tree,National Park,Pacific West ,CA,2011,1396237,10478194,164380,40692,8664
+16534,Joshua Tree,National Park,Pacific West ,CA,2012,1396117,10792285,179412,46530,9983
+16546,Joshua Tree,National Park,Pacific West ,CA,2013,1383340,10904167,181056,46758,9899
+16558,Joshua Tree,National Park,Pacific West ,CA,2014,1589904,12410611,192548,62214,10604
+16570,Joshua Tree,National Park,Pacific West ,CA,2015,2025756,14899986,222184,74952,14141
+16582,Joshua Tree,National Park,Pacific West ,CA,2016,2505286,16854694,232964,65409,21195
+16594,Joshua Tree,National Park,Pacific West ,CA,2017,2853619,18362028,250384,78135,19590
+16606,Joshua Tree,National Park,Pacific West ,CA,2018,2942382,17655261,222228,73485,19437
+16618,Joshua Tree,National Park,Pacific West ,CA,2019,2988547,17489850,232300,78192,18184
+16882,Katmai & PRES,National Park,Alaska,AK,2001,67038,831650,2315,0,20903
+16894,Katmai & PRES,National Park,Alaska,AK,2002,59025,801982,2315,0,21186
+16906,Katmai & PRES,National Park,Alaska,AK,2003,51589,306694,2043,0,345
+16918,Katmai & PRES,National Park,Alaska,AK,2004,56787,582474,2521,0,316
+16930,Katmai & PRES,National Park,Alaska,AK,2005,54274,419621,2881,0,653
+16942,Katmai & PRES,National Park,Alaska,AK,2006,68630,462388,2873,0,461
+16954,Katmai & PRES,National Park,Alaska,AK,2007,82634,487928,2296,0,494
+16966,Katmai & PRES,National Park,Alaska,AK,2008,7970,60213,0,0,0
+16978,Katmai & PRES,National Park,Alaska,AK,2009,43035,307706,1993,0,383
+16990,Katmai & PRES,National Park,Alaska,AK,2010,55172,324181,2319,0,483
+17002,Katmai & PRES,National Park,Alaska,AK,2011,48939,352208,4014,0,400
+17014,Katmai & PRES,National Park,Alaska,AK,2012,39818,420807,3547,0,2754
+17026,Katmai & PRES,National Park,Alaska,AK,2013,28966,344373,2881,0,483
+17038,Katmai & PRES,National Park,Alaska,AK,2014,30896,333411,1898,0,483
+17050,Katmai & PRES,National Park,Alaska,AK,2015,37818,233289,2098,0,483
+17062,Katmai & PRES,National Park,Alaska,AK,2016,37818,233289,2098,0,483
+17074,Katmai & PRES,National Park,Alaska,AK,2017,37818,233289,2098,0,483
+17086,Katmai & PRES,National Park,Alaska,AK,2018,37818,233289,2098,0,483
+17098,Katmai & PRES,National Park,Alaska,AK,2019,84167,256745,2560,0,458
+17338,Kenai Fjords,National Park,Alaska,AK,2001,262353,861868,1574,0,2973
+17350,Kenai Fjords,National Park,Alaska,AK,2002,251799,804859,1032,52,2704
+17362,Kenai Fjords,National Park,Alaska,AK,2003,243719,758033,34,164,2387
+17374,Kenai Fjords,National Park,Alaska,AK,2004,244232,745618,1184,66,1840
+17386,Kenai Fjords,National Park,Alaska,AK,2005,258297,844533,1718,0,1479
+17398,Kenai Fjords,National Park,Alaska,AK,2006,251630,834059,1236,0,1637
+17410,Kenai Fjords,National Park,Alaska,AK,2007,284604,913094,1460,0,195
+17422,Kenai Fjords,National Park,Alaska,AK,2008,272190,895350,1478,0,194
+17434,Kenai Fjords,National Park,Alaska,AK,2009,218358,689012,1146,0,953
+17446,Kenai Fjords,National Park,Alaska,AK,2010,297596,826267,1284,0,1692
+17458,Kenai Fjords,National Park,Alaska,AK,2011,346852,923826,1250,0,541
+17470,Kenai Fjords,National Park,Alaska,AK,2012,281279,889849,986,0,514
+17482,Kenai Fjords,National Park,Alaska,AK,2013,283502,899930,822,0,279
+17494,Kenai Fjords,National Park,Alaska,AK,2014,270666,843730,1130,0,432
+17506,Kenai Fjords,National Park,Alaska,AK,2015,296697,936264,1434,0,640
+17518,Kenai Fjords,National Park,Alaska,AK,2016,346534,1159562,1514,0,648
+17530,Kenai Fjords,National Park,Alaska,AK,2017,303598,967057,1176,0,674
+17542,Kenai Fjords,National Park,Alaska,AK,2018,321596,1104023,1080,0,676
+17554,Kenai Fjords,National Park,Alaska,AK,2019,356601,1175974,1076,0,566
+17830,Kings Canyon,National Park,Pacific West ,CA,2001,541787,17337518,71608,30265,81057
+17842,Kings Canyon,National Park,Pacific West ,CA,2002,545420,17320844,74123,29707,54484
+17854,Kings Canyon,National Park,Pacific West ,CA,2003,555987,17828305,72909,28751,64369
+17866,Kings Canyon,National Park,Pacific West ,CA,2004,525035,16528053,62464,26032,15002
+17878,Kings Canyon,National Park,Pacific West ,CA,2005,594893,19165802,71131,32123,12793
+17890,Kings Canyon,National Park,Pacific West ,CA,2006,552766,18003322,67448,29532,15697
+17902,Kings Canyon,National Park,Pacific West ,CA,2007,580129,18608422,69607,32954,11760
+17914,Kings Canyon,National Park,Pacific West ,CA,2008,574870,18119164,74367,35710,14180
+17926,Kings Canyon,National Park,Pacific West ,CA,2009,609296,19608978,77583,32897,14309
+17938,Kings Canyon,National Park,Pacific West ,CA,2010,598205,19434316,85501,37422,15203
+17950,Kings Canyon,National Park,Pacific West ,CA,2011,566810,18489536,83502,30611,11186
+17962,Kings Canyon,National Park,Pacific West ,CA,2012,591033,19136962,80529,33044,12121
+17974,Kings Canyon,National Park,Pacific West ,CA,2013,567544,18684495,77260,29558,13303
+17986,Kings Canyon,National Park,Pacific West ,CA,2014,502268,16510022,81537,25783,15603
+17998,Kings Canyon,National Park,Pacific West ,CA,2015,468106,15252100,73622,24531,10765
+18010,Kings Canyon,National Park,Pacific West ,CA,2016,607479,20206635,110490,32686,12046
+18022,Kings Canyon,National Park,Pacific West ,CA,2017,692932,23087605,124284,37906,25645
+18034,Kings Canyon,National Park,Pacific West ,CA,2018,699023,22880404,114921,40043,23876
+18046,Kings Canyon,National Park,Pacific West ,CA,2019,632110,21026493,103643,32589,15650
+18286,Kobuk Valley,National Park,Alaska,AK,2001,4217,13442,0,0,0
+18298,Kobuk Valley,National Park,Alaska,AK,2002,4046,13586,0,0,50
+18310,Kobuk Valley,National Park,Alaska,AK,2003,4006,13771,0,0,35
+18322,Kobuk Valley,National Park,Alaska,AK,2004,4744,17542,0,0,0
+18334,Kobuk Valley,National Park,Alaska,AK,2005,5037,19224,0,0,148
+18346,Kobuk Valley,National Park,Alaska,AK,2006,3005,6857,0,0,509
+18358,Kobuk Valley,National Park,Alaska,AK,2007,847,2065,0,0,292
+18370,Kobuk Valley,National Park,Alaska,AK,2008,1565,3806,0,0,334
+18382,Kobuk Valley,National Park,Alaska,AK,2009,1879,4876,0,0,818
+18394,Kobuk Valley,National Park,Alaska,AK,2010,3164,8300,0,0,503
+18406,Kobuk Valley,National Park,Alaska,AK,2011,11485,26950,0,0,4896
+18418,Kobuk Valley,National Park,Alaska,AK,2012,29550,81450,0,0,8400
+18430,Kobuk Valley,National Park,Alaska,AK,2013,16875,48600,0,0,5925
+18442,Kobuk Valley,National Park,Alaska,AK,2014,0,0,0,0,0
+18454,Kobuk Valley,National Park,Alaska,AK,2015,0,0,0,0,0
+18466,Kobuk Valley,National Park,Alaska,AK,2016,15500,50900,0,0,7050
+18478,Kobuk Valley,National Park,Alaska,AK,2017,15500,50900,0,0,7050
+18490,Kobuk Valley,National Park,Alaska,AK,2018,14937,54087,0,0,7050
+18502,Kobuk Valley,National Park,Alaska,AK,2019,15766,58789,0,0,7050
+18742,Lake Clark & PRES,National Park,Alaska,AK,2001,4397,60230,0,0,2338
+18754,Lake Clark & PRES,National Park,Alaska,AK,2002,4325,60350,0,0,2350
+18766,Lake Clark & PRES,National Park,Alaska,AK,2003,4505,52350,0,0,1970
+18778,Lake Clark & PRES,National Park,Alaska,AK,2004,4906,53812,0,0,2000
+18790,Lake Clark & PRES,National Park,Alaska,AK,2005,5408,53936,0,0,1960
+18802,Lake Clark & PRES,National Park,Alaska,AK,2006,5320,47270,0,0,1665
+18814,Lake Clark & PRES,National Park,Alaska,AK,2007,5549,43592,0,0,1477
+18826,Lake Clark & PRES,National Park,Alaska,AK,2008,6802,65216,0,0,2346
+18838,Lake Clark & PRES,National Park,Alaska,AK,2009,9711,92484,0,0,3321
+18850,Lake Clark & PRES,National Park,Alaska,AK,2010,9931,133140,0,0,5149
+18862,Lake Clark & PRES,National Park,Alaska,AK,2011,5158,52798,0,0,1931
+18874,Lake Clark & PRES,National Park,Alaska,AK,2012,11639,94492,0,0,3237
+18886,Lake Clark & PRES,National Park,Alaska,AK,2013,13000,78272,0,0,2376
+18898,Lake Clark & PRES,National Park,Alaska,AK,2014,16100,80028,0,0,2174
+18910,Lake Clark & PRES,National Park,Alaska,AK,2015,17818,83288,0,0,2166
+18922,Lake Clark & PRES,National Park,Alaska,AK,2016,21102,184896,0,0,6486
+18934,Lake Clark & PRES,National Park,Alaska,AK,2017,22755,203866,0,0,7198
+18946,Lake Clark & PRES,National Park,Alaska,AK,2018,14479,187314,0,0,7198
+18958,Lake Clark & PRES,National Park,Alaska,AK,2019,17157,49406,0,0,686
+19234,Lassen Volcanic,National Park,Pacific West ,CA,2001,376695,4252881,54213,18918,8452
+19246,Lassen Volcanic,National Park,Pacific West ,CA,2002,388149,4161468,46851,20106,8786
+19258,Lassen Volcanic,National Park,Pacific West ,CA,2003,404384,4177167,42252,21657,6139
+19270,Lassen Volcanic,National Park,Pacific West ,CA,2004,379667,3951174,45006,18816,5434
+19282,Lassen Volcanic,National Park,Pacific West ,CA,2005,365535,3749655,40752,17067,5485
+19294,Lassen Volcanic,National Park,Pacific West ,CA,2006,388741,3829866,38628,18228,5083
+19306,Lassen Volcanic,National Park,Pacific West ,CA,2007,395057,3956781,40764,17658,5413
+19318,Lassen Volcanic,National Park,Pacific West ,CA,2008,377361,3908247,40266,17643,5733
+19330,Lassen Volcanic,National Park,Pacific West ,CA,2009,365639,4271376,53856,22590,5798
+19342,Lassen Volcanic,National Park,Pacific West ,CA,2010,384570,4379823,55926,23583,6006
+19354,Lassen Volcanic,National Park,Pacific West ,CA,2011,351269,3967512,47964,21822,6104
+19366,Lassen Volcanic,National Park,Pacific West ,CA,2012,407653,4251693,48837,21234,4173
+19378,Lassen Volcanic,National Park,Pacific West ,CA,2013,427409,4787856,54435,25620,5905
+19390,Lassen Volcanic,National Park,Pacific West ,CA,2014,432977,4831152,56334,27054,5898
+19402,Lassen Volcanic,National Park,Pacific West ,CA,2015,468092,5590719,73794,28422,9170
+19414,Lassen Volcanic,National Park,Pacific West ,CA,2016,536068,5675964,59742,27633,9057
+19426,Lassen Volcanic,National Park,Pacific West ,CA,2017,507256,5467248,56772,29730,6724
+19438,Lassen Volcanic,National Park,Pacific West ,CA,2018,499435,5386551,59733,28038,7320
+19450,Lassen Volcanic,National Park,Pacific West ,CA,2019,517039,5490609,56856,29916,6685
+19726,Mammoth Cave,National Park,Southeast ,KY,2001,1883580,4776396,34004,14992,4981
+19738,Mammoth Cave,National Park,Southeast ,KY,2002,1891307,4833984,35996,16100,5125
+19750,Mammoth Cave,National Park,Southeast ,KY,2003,1869137,4652588,33480,15960,6085
+19762,Mammoth Cave,National Park,Southeast ,KY,2004,1888267,4742343,37352,14448,6024
+19774,Mammoth Cave,National Park,Southeast ,KY,2005,1878006,4637790,31896,13284,5492
+19786,Mammoth Cave,National Park,Southeast ,KY,2006,597934,3706851,30144,12900,6329
+19798,Mammoth Cave,National Park,Southeast ,KY,2007,487305,3217083,30436,15468,6297
+19810,Mammoth Cave,National Park,Southeast ,KY,2008,446174,2937705,31556,10708,5236
+19822,Mammoth Cave,National Park,Southeast ,KY,2009,503856,3283470,36668,12604,5737
+19834,Mammoth Cave,National Park,Southeast ,KY,2010,497225,3212366,34176,10464,4981
+19846,Mammoth Cave,National Park,Southeast ,KY,2011,483319,3071143,32440,9584,5114
+19858,Mammoth Cave,National Park,Southeast ,KY,2012,508054,3234522,34096,11652,5348
+19870,Mammoth Cave,National Park,Southeast ,KY,2013,494541,3085642,32644,9496,5669
+19882,Mammoth Cave,National Park,Southeast ,KY,2014,522628,3305826,34156,10676,4744
+19894,Mammoth Cave,National Park,Southeast ,KY,2015,566895,3481105,33380,11592,5036
+19906,Mammoth Cave,National Park,Southeast ,KY,2016,586514,3545116,39636,16248,5088
+19918,Mammoth Cave,National Park,Southeast ,KY,2017,587853,3497245,42732,16000,3753
+19930,Mammoth Cave,National Park,Southeast ,KY,2018,533206,4107496,38784,13264,7861
+19942,Mammoth Cave,National Park,Southeast ,KY,2019,551590,4381054,36695,10741,3182
+20218,Mesa Verde,National Park,Intermountain ,CO,2001,513409,4104385,39591,12025,0
+20230,Mesa Verde,National Park,Intermountain ,CO,2002,406385,3145422,24725,11579,0
+20242,Mesa Verde,National Park,Intermountain ,CO,2003,438590,3441260,26990,14588,0
+20254,Mesa Verde,National Park,Intermountain ,CO,2004,446811,3648775,29557,13627,0
+20266,Mesa Verde,National Park,Intermountain ,CO,2005,498333,3713178,22569,14221,0
+20278,Mesa Verde,National Park,Intermountain ,CO,2006,557248,4114868,29011,14699,0
+20290,Mesa Verde,National Park,Intermountain ,CO,2007,541102,3967539,27808,13101,0
+20302,Mesa Verde,National Park,Intermountain ,CO,2008,551446,4212887,20357,20017,0
+20314,Mesa Verde,National Park,Intermountain ,CO,2009,550377,4140501,24657,22510,0
+20326,Mesa Verde,National Park,Intermountain ,CO,2010,559712,4237579,26994,22066,0
+20338,Mesa Verde,National Park,Intermountain ,CO,2011,572329,3851465,26489,14879,0
+20350,Mesa Verde,National Park,Intermountain ,CO,2012,488860,3348743,22705,19156,0
+20362,Mesa Verde,National Park,Intermountain ,CO,2013,460237,3044878,24066,11400,0
+20374,Mesa Verde,National Park,Intermountain ,CO,2014,501563,3535150,40400,5974,0
+20386,Mesa Verde,National Park,Intermountain ,CO,2015,547325,3874598,49800,6359,0
+20398,Mesa Verde,National Park,Intermountain ,CO,2016,583527,4139389,44925,12073,0
+20410,Mesa Verde,National Park,Intermountain ,CO,2017,613788,4000241,29879,16808,0
+20422,Mesa Verde,National Park,Intermountain ,CO,2018,563420,3975281,33434,24462,0
+20434,Mesa Verde,National Park,Intermountain ,CO,2019,556203,3969497,33621,26110,0
+20710,Mount Rainier,National Park,Pacific West ,WA,2001,1301103,14764665,63407,31010,64362
+20722,Mount Rainier,National Park,Pacific West ,WA,2002,1310390,14975232,50828,40576,49955
+20734,Mount Rainier,National Park,Pacific West ,WA,2003,1262351,14529773,66864,25976,64110
+20746,Mount Rainier,National Park,Pacific West ,WA,2004,1217750,14177515,56826,25593,63777
+20758,Mount Rainier,National Park,Pacific West ,WA,2005,1173897,13752256,60051,26367,43759
+20770,Mount Rainier,National Park,Pacific West ,WA,2006,1113601,13405997,62903,24633,29517
+20782,Mount Rainier,National Park,Pacific West ,WA,2007,1047685,12361533,44700,18441,24523
+20794,Mount Rainier,National Park,Pacific West ,WA,2008,1163227,13426852,48752,18317,39576
+20806,Mount Rainier,National Park,Pacific West ,WA,2009,1151654,13827228,59032,22561,43083
+20818,Mount Rainier,National Park,Pacific West ,WA,2010,1191754,14416024,59340,22860,40731
+20830,Mount Rainier,National Park,Pacific West ,WA,2011,1038229,12929916,55937,21087,39907
+20842,Mount Rainier,National Park,Pacific West ,WA,2012,1049178,12973366,62196,24109,45565
+20854,Mount Rainier,National Park,Pacific West ,WA,2013,1148552,14351291,59860,24202,45975
+20866,Mount Rainier,National Park,Pacific West ,WA,2014,1264259,15086202,58755,30515,48679
+20878,Mount Rainier,National Park,Pacific West ,WA,2015,1237231,14147970,68484,25085,44296
+20890,Mount Rainier,National Park,Pacific West ,WA,2016,1356913,15943893,64265,28981,57636
+20902,Mount Rainier,National Park,Pacific West ,WA,2017,1415867,16870540,74721,29400,55333
+20914,Mount Rainier,National Park,Pacific West ,WA,2018,1518491,17718273,83645,30623,64294
+20926,Mount Rainier,National Park,Pacific West ,WA,2019,1501621,18660689,83353,30408,47703
+20938,National Park of American Samoa,National Park,Pacific West ,AS,2002,1938,3874,0,0,0
+20950,National Park of American Samoa,National Park,Pacific West ,AS,2003,0,0,0,0,0
+20962,National Park of American Samoa,National Park,Pacific West ,AS,2006,1239,2475,0,0,0
+20974,National Park of American Samoa,National Park,Pacific West ,AS,2007,6774,13548,0,0,0
+20986,National Park of American Samoa,National Park,Pacific West ,AS,2008,3683,7362,0,0,0
+20998,National Park of American Samoa,National Park,Pacific West ,AS,2009,3242,6488,0,0,0
+21010,National Park of American Samoa,National Park,Pacific West ,AS,2010,3006,6014,0,0,0
+21022,National Park of American Samoa,National Park,Pacific West ,AS,2011,8716,17431,0,0,0
+21034,National Park of American Samoa,National Park,Pacific West ,AS,2012,10440,20880,0,0,0
+21046,National Park of American Samoa,National Park,Pacific West ,AS,2013,17919,35838,0,0,0
+21058,National Park of American Samoa,National Park,Pacific West ,AS,2014,13953,27903,0,0,0
+21070,National Park of American Samoa,National Park,Pacific West ,AS,2015,13892,27786,0,0,0
+21082,National Park of American Samoa,National Park,Pacific West ,AS,2016,28892,57783,0,0,0
+21094,National Park of American Samoa,National Park,Pacific West ,AS,2017,69468,138934,0,0,0
+21106,National Park of American Samoa,National Park,Pacific West ,AS,2018,28626,57252,0,0,0
+21118,National Park of American Samoa,National Park,Pacific West ,AS,2019,60006,120010,0,0,0
+21394,North Cascades,National Park,Pacific West ,WA,2001,27739,382340,0,0,16243
+21406,North Cascades,National Park,Pacific West ,WA,2002,20691,367441,0,0,17414
+21418,North Cascades,National Park,Pacific West ,WA,2003,20724,373370,0,0,17753
+21430,North Cascades,National Park,Pacific West ,WA,2004,16912,315915,0,0,15311
+21442,North Cascades,National Park,Pacific West ,WA,2005,18686,329923,0,0,15537
+21454,North Cascades,National Park,Pacific West ,WA,2006,19167,337450,0,0,15965
+21466,North Cascades,National Park,Pacific West ,WA,2007,19534,337708,0,0,15836
+21478,North Cascades,National Park,Pacific West ,WA,2008,18725,324520,0,0,15233
+21490,North Cascades,National Park,Pacific West ,WA,2009,26972,354996,0,0,14558
+21502,North Cascades,National Park,Pacific West ,WA,2010,24659,440131,0,0,17801
+21514,North Cascades,National Park,Pacific West ,WA,2011,19208,397139,0,0,17002
+21526,North Cascades,National Park,Pacific West ,WA,2012,26935,476330,0,0,19360
+21538,North Cascades,National Park,Pacific West ,WA,2013,21623,467679,0,0,20295
+21550,North Cascades,National Park,Pacific West ,WA,2014,23865,499397,0,0,21547
+21562,North Cascades,National Park,Pacific West ,WA,2015,20677,524870,0,0,23721
+21574,North Cascades,National Park,Pacific West ,WA,2016,28646,590966,0,0,25516
+21586,North Cascades,National Park,Pacific West ,WA,2017,30326,607202,0,0,26081
+21598,North Cascades,National Park,Pacific West ,WA,2018,30085,616576,0,0,26703
+21610,North Cascades,National Park,Pacific West ,WA,2019,38208,672611,0,0,27581
+21886,Olympic,National Park,Pacific West ,WA,2001,3416069,17567540,123847,78440,107795
+21898,Olympic,National Park,Pacific West ,WA,2002,3691310,19447537,130001,84014,117434
+21910,Olympic,National Park,Pacific West ,WA,2003,3225327,17825977,121964,82536,105407
+21922,Olympic,National Park,Pacific West ,WA,2004,3073722,16327946,113158,77835,75005
+21934,Olympic,National Park,Pacific West ,WA,2005,3142774,17004575,110320,79633,80520
+21946,Olympic,National Park,Pacific West ,WA,2006,2749197,15420024,97272,86843,76323
+21958,Olympic,National Park,Pacific West ,WA,2007,2988686,14454097,101792,64462,70802
+21970,Olympic,National Park,Pacific West ,WA,2008,3081451,14317174,92314,58135,67893
+21982,Olympic,National Park,Pacific West ,WA,2009,3276459,15784492,105808,79556,82085
+21994,Olympic,National Park,Pacific West ,WA,2010,2844563,13769267,90477,63701,68546
+22006,Olympic,National Park,Pacific West ,WA,2011,2966502,14355540,101249,60341,57162
+22018,Olympic,National Park,Pacific West ,WA,2012,2824908,13431712,90876,55271,55776
+22030,Olympic,National Park,Pacific West ,WA,2013,3085340,13737596,110015,52656,54369
+22042,Olympic,National Park,Pacific West ,WA,2014,3243872,15130358,140112,66937,69731
+22054,Olympic,National Park,Pacific West ,WA,2015,3263761,15614566,122579,65516,88587
+22066,Olympic,National Park,Pacific West ,WA,2016,3390221,16657226,134871,64582,100347
+22078,Olympic,National Park,Pacific West ,WA,2017,3401996,17876205,178359,76186,122678
+22090,Olympic,National Park,Pacific West ,WA,2018,3104455,17574425,162192,77436,128134
+22102,Olympic,National Park,Pacific West ,WA,2019,3245806,16899047,134569,73701,96864
+22378,Petrified Forest,National Park,Intermountain ,AZ,2001,583904,1400078,0,0,579
+22390,Petrified Forest,National Park,Intermountain ,AZ,2002,571586,1356088,0,0,357
+22402,Petrified Forest,National Park,Intermountain ,AZ,2003,586245,1393364,0,0,308
+22414,Petrified Forest,National Park,Intermountain ,AZ,2004,580000,1441104,0,0,1213
+22426,Petrified Forest,National Park,Intermountain ,AZ,2005,598378,1485181,0,0,272
+22438,Petrified Forest,National Park,Intermountain ,AZ,2006,581681,1443127,0,0,142
+22450,Petrified Forest,National Park,Intermountain ,AZ,2007,563590,1409938,0,0,198
+22462,Petrified Forest,National Park,Intermountain ,AZ,2008,543714,1367085,0,0,174
+22474,Petrified Forest,National Park,Intermountain ,AZ,2009,631613,1552260,0,0,276
+22486,Petrified Forest,National Park,Intermountain ,AZ,2010,664725,1660293,0,0,300
+22498,Petrified Forest,National Park,Intermountain ,AZ,2011,614054,1540281,0,0,252
+22510,Petrified Forest,National Park,Intermountain ,AZ,2012,664857,1666541,0,0,257
+22522,Petrified Forest,National Park,Intermountain ,AZ,2013,644648,1618506,0,0,264
+22534,Petrified Forest,National Park,Intermountain ,AZ,2014,836799,2099086,0,0,252
+22546,Petrified Forest,National Park,Intermountain ,AZ,2015,793225,2021989,0,0,437
+22558,Petrified Forest,National Park,Intermountain ,AZ,2016,643274,1570133,0,0,486
+22570,Petrified Forest,National Park,Intermountain ,AZ,2017,627757,1732841,0,0,1401
+22582,Petrified Forest,National Park,Intermountain ,AZ,2018,644922,1725278,0,0,1166
+22594,Petrified Forest,National Park,Intermountain ,AZ,2019,643588,1701149,0,0,1451
+22870,Pinnacles,National Park,Pacific West ,CA,2001,178243,646320,0,0,0
+22882,Pinnacles,National Park,Pacific West ,CA,2002,162266,591078,0,0,0
+22894,Pinnacles,National Park,Pacific West ,CA,2003,162791,594462,0,0,0
+22906,Pinnacles,National Park,Pacific West ,CA,2004,157397,572182,0,0,0
+22918,Pinnacles,National Park,Pacific West ,CA,2005,170994,624029,0,0,0
+22930,Pinnacles,National Park,Pacific West ,CA,2006,158824,871836,10459,3174,0
+22942,Pinnacles,National Park,Pacific West ,CA,2007,161019,963379,14256,3314,0
+22954,Pinnacles,National Park,Pacific West ,CA,2008,166988,1041039,17115,3094,0
+22966,Pinnacles,National Park,Pacific West ,CA,2009,171112,826292,0,0,0
+22978,Pinnacles,National Park,Pacific West ,CA,2010,246575,1115009,0,0,0
+22990,Pinnacles,National Park,Pacific West ,CA,2011,393219,1405009,0,0,0
+23002,Pinnacles,National Park,Pacific West ,CA,2012,224476,814293,0,0,0
+23014,Pinnacles,National Park,Pacific West ,CA,2013,237677,867601,0,0,0
+23026,Pinnacles,National Park,Pacific West ,CA,2014,196635,708574,0,0,0
+23038,Pinnacles,National Park,Pacific West ,CA,2015,206533,739017,0,0,0
+23050,Pinnacles,National Park,Pacific West ,CA,2016,215555,771393,0,0,0
+23062,Pinnacles,National Park,Pacific West ,CA,2017,233334,836253,0,0,0
+23074,Pinnacles,National Park,Pacific West ,CA,2018,222152,795090,0,0,0
+23086,Pinnacles,National Park,Pacific West ,CA,2019,177224,634536,0,0,0
+23362,Redwood,National Park,Pacific West ,CA,2001,388352,2086879,4049,19584,1537
+23374,Redwood,National Park,Pacific West ,CA,2002,404789,2202558,7889,18652,1640
+23386,Redwood,National Park,Pacific West ,CA,2003,408126,2245174,9833,15939,1095
+23398,Redwood,National Park,Pacific West ,CA,2004,392029,1734376,1736,140,1392
+23410,Redwood,National Park,Pacific West ,CA,2005,394144,1641673,1620,0,1031
+23422,Redwood,National Park,Pacific West ,CA,2006,383780,1623004,1407,0,1109
+23434,Redwood,National Park,Pacific West ,CA,2007,385171,1625534,1310,0,1005
+23446,Redwood,National Park,Pacific West ,CA,2008,396899,1664544,1521,0,1384
+23458,Redwood,National Park,Pacific West ,CA,2009,444426,1858528,1541,0,1338
+23470,Redwood,National Park,Pacific West ,CA,2010,418820,1617229,1758,0,903
+23482,Redwood,National Park,Pacific West ,CA,2011,380167,1436388,1294,0,1330
+23494,Redwood,National Park,Pacific West ,CA,2012,352517,1296303,1362,0,1255
+23506,Redwood,National Park,Pacific West ,CA,2013,393364,1577917,3567,0,3096
+23518,Redwood,National Park,Pacific West ,CA,2014,429166,1696057,3676,0,3829
+23530,Redwood,National Park,Pacific West ,CA,2015,527143,2048943,4554,0,4394
+23542,Redwood,National Park,Pacific West ,CA,2016,536297,2070324,4979,0,4681
+23554,Redwood,National Park,Pacific West ,CA,2017,445000,1731930,3363,0,4769
+23566,Redwood,National Park,Pacific West ,CA,2018,482536,1882690,3711,0,4035
+23578,Redwood,National Park,Pacific West ,CA,2019,504722,1762772,2721,0,3276
+23854,Rocky Mountain,National Park,Intermountain ,CO,2001,3139685,22199886,95055,70638,41285
+23866,Rocky Mountain,National Park,Intermountain ,CO,2002,2988475,21232940,93843,66909,39178
+23878,Rocky Mountain,National Park,Intermountain ,CO,2003,3067256,21747639,97929,73350,36012
+23890,Rocky Mountain,National Park,Intermountain ,CO,2004,2781899,19679258,90603,63252,23928
+23902,Rocky Mountain,National Park,Intermountain ,CO,2005,2798368,20047143,96198,61623,33745
+23914,Rocky Mountain,National Park,Intermountain ,CO,2006,2743676,19762057,93717,64641,35227
+23926,Rocky Mountain,National Park,Intermountain ,CO,2007,2895383,20733804,103278,59826,36078
+23938,Rocky Mountain,National Park,Intermountain ,CO,2008,2757390,19805087,90690,52302,47701
+23950,Rocky Mountain,National Park,Intermountain ,CO,2009,2822325,19667887,83925,45957,31912
+23962,Rocky Mountain,National Park,Intermountain ,CO,2010,2955821,20522155,89514,45354,33405
+23974,Rocky Mountain,National Park,Intermountain ,CO,2011,3176941,22273036,101337,52944,31216
+23986,Rocky Mountain,National Park,Intermountain ,CO,2012,3229617,21925337,84393,39765,29558
+23998,Rocky Mountain,National Park,Intermountain ,CO,2013,2991141,20343289,79782,35472,29870
+24010,Rocky Mountain,National Park,Intermountain ,CO,2014,3434751,23933403,112197,50808,34321
+24022,Rocky Mountain,National Park,Intermountain ,CO,2015,4155916,28840877,124254,60927,46301
+24034,Rocky Mountain,National Park,Intermountain ,CO,2016,4517585,30764140,120981,57321,45223
+24046,Rocky Mountain,National Park,Intermountain ,CO,2017,4437215,30464697,124179,57627,45194
+24058,Rocky Mountain,National Park,Intermountain ,CO,2018,4590493,31379912,117924,71016,46840
+24070,Rocky Mountain,National Park,Intermountain ,CO,2019,4670053,31535363,112791,64809,41213
+24346,Saguaro,National Park,Intermountain ,AZ,2001,725874,1197126,0,0,1683
+24358,Saguaro,National Park,Intermountain ,AZ,2002,615045,974825,0,0,1424
+24370,Saguaro,National Park,Intermountain ,AZ,2003,643697,1011516,0,0,1208
+24382,Saguaro,National Park,Intermountain ,AZ,2004,651464,1034208,0,0,2203
+24394,Saguaro,National Park,Intermountain ,AZ,2005,727208,1051939,0,0,1447
+24406,Saguaro,National Park,Intermountain ,AZ,2006,619983,915797,0,0,1552
+24418,Saguaro,National Park,Intermountain ,AZ,2007,658477,967671,0,0,1295
+24430,Saguaro,National Park,Intermountain ,AZ,2008,699137,1062859,0,0,1599
+24442,Saguaro,National Park,Intermountain ,AZ,2009,665234,965494,0,0,1599
+24454,Saguaro,National Park,Intermountain ,AZ,2010,717614,1078216,0,0,1568
+24466,Saguaro,National Park,Intermountain ,AZ,2011,610045,924895,0,0,2033
+24478,Saguaro,National Park,Intermountain ,AZ,2012,634286,943789,0,0,1545
+24490,Saguaro,National Park,Intermountain ,AZ,2013,678261,1000102,0,0,1610
+24502,Saguaro,National Park,Intermountain ,AZ,2014,673572,993001,0,0,1377
+24514,Saguaro,National Park,Intermountain ,AZ,2015,753446,1150440,0,0,1846
+24526,Saguaro,National Park,Intermountain ,AZ,2016,820426,1199169,0,0,1868
+24538,Saguaro,National Park,Intermountain ,AZ,2017,964760,1023894,0,0,2339
+24550,Saguaro,National Park,Intermountain ,AZ,2018,957405,1015552,0,0,2058
+24562,Saguaro,National Park,Intermountain ,AZ,2019,1020226,1076297,0,0,2185
+24838,Sequoia,National Park,Pacific West ,CA,2001,870327,28786779,103216,33884,88986
+24850,Sequoia,National Park,Pacific West ,CA,2002,920292,30018970,96080,26009,59577
+24862,Sequoia,National Park,Pacific West ,CA,2003,979297,31658292,125161,16265,75687
+24874,Sequoia,National Park,Pacific West ,CA,2004,1000177,32116237,112677,31030,24815
+24886,Sequoia,National Park,Pacific West ,CA,2005,1004843,32413062,100645,31128,18118
+24898,Sequoia,National Park,Pacific West ,CA,2006,954507,30517569,91285,28207,21659
+24910,Sequoia,National Park,Pacific West ,CA,2007,979537,31530626,102292,28984,20644
+24922,Sequoia,National Park,Pacific West ,CA,2008,930011,29748796,108408,27294,23681
+24934,Sequoia,National Park,Pacific West ,CA,2009,965170,31029639,121930,29952,36238
+24946,Sequoia,National Park,Pacific West ,CA,2010,1002979,32927347,124138,33696,21594
+24958,Sequoia,National Park,Pacific West ,CA,2011,1006583,32910799,110772,28914,22210
+24970,Sequoia,National Park,Pacific West ,CA,2012,1106584,36281353,117821,28297,21969
+24982,Sequoia,National Park,Pacific West ,CA,2013,909274,29555738,114306,29947,26631
+24994,Sequoia,National Park,Pacific West ,CA,2014,1039137,33453824,129562,34902,29013
+25006,Sequoia,National Park,Pacific West ,CA,2015,1097464,35031293,133833,39448,32436
+25018,Sequoia,National Park,Pacific West ,CA,2016,1254688,40177330,149714,69732,36247
+25030,Sequoia,National Park,Pacific West ,CA,2017,1291256,41884679,139901,56944,36660
+25042,Sequoia,National Park,Pacific West ,CA,2018,1229594,38429051,142945,78543,37881
+25054,Sequoia,National Park,Pacific West ,CA,2019,1246053,40056963,133088,68679,29871
+25330,Shenandoah,National Park,Northeast ,VA,2001,1498561,10511811,95637,44811,42563
+25342,Shenandoah,National Park,Northeast ,VA,2002,1389244,9486612,91818,47367,37895
+25354,Shenandoah,National Park,Northeast ,VA,2003,1163950,8374073,77319,40671,34572
+25366,Shenandoah,National Park,Northeast ,VA,2004,1261000,8959443,83673,42195,35814
+25378,Shenandoah,National Park,Northeast ,VA,2005,1094912,9210855,83211,44307,41239
+25390,Shenandoah,National Park,Northeast ,VA,2006,1076150,8543043,85839,42660,33284
+25402,Shenandoah,National Park,Northeast ,VA,2007,1107227,9458258,91875,46776,33668
+25414,Shenandoah,National Park,Northeast ,VA,2008,1075878,9510918,91677,43842,37615
+25426,Shenandoah,National Park,Northeast ,VA,2009,1120981,9603377,97755,47037,39083
+25438,Shenandoah,National Park,Northeast ,VA,2010,1253386,10129983,106536,49245,38147
+25450,Shenandoah,National Park,Northeast ,VA,2011,1209883,9577868,97947,43764,36571
+25462,Shenandoah,National Park,Northeast ,VA,2012,1210200,9715409,100821,42849,42133
+25474,Shenandoah,National Park,Northeast ,VA,2013,1136505,8692122,90705,34773,41419
+25486,Shenandoah,National Park,Northeast ,VA,2014,1255321,9538211,106161,45288,40644
+25498,Shenandoah,National Park,Northeast ,VA,2015,1321873,10573047,114873,48231,43348
+25510,Shenandoah,National Park,Northeast ,VA,2016,1437341,11194551,129594,51255,48825
+25522,Shenandoah,National Park,Northeast ,VA,2017,1458874,11288181,115578,51846,59763
+25534,Shenandoah,National Park,Northeast ,VA,2018,1264880,10306163,110256,52431,39980
+25546,Shenandoah,National Park,Northeast ,VA,2019,1425507,10618576,119649,59820,32391
+25822,Theodore Roosevelt,National Park,Midwest ,ND,2001,446609,1146107,9997,12320,771
+25834,Theodore Roosevelt,National Park,Midwest ,ND,2002,471551,1222857,9527,13427,1072
+25846,Theodore Roosevelt,National Park,Midwest ,ND,2003,490295,1548689,10534,12555,1185
+25858,Theodore Roosevelt,National Park,Midwest ,ND,2004,474589,1479383,9310,11982,750
+25870,Theodore Roosevelt,National Park,Midwest ,ND,2005,493198,1547162,8383,13557,634
+25882,Theodore Roosevelt,National Park,Midwest ,ND,2006,435359,1313770,7879,10575,1110
+25894,Theodore Roosevelt,National Park,Midwest ,ND,2007,456588,1359757,7668,11331,480
+25906,Theodore Roosevelt,National Park,Midwest ,ND,2008,516804,1456334,9000,9358,593
+25918,Theodore Roosevelt,National Park,Midwest ,ND,2009,586928,1787581,10687,14174,798
+25930,Theodore Roosevelt,National Park,Midwest ,ND,2010,623748,1937130,11709,14425,732
+25942,Theodore Roosevelt,National Park,Midwest ,ND,2011,563407,1789230,10989,9182,768
+25954,Theodore Roosevelt,National Park,Midwest ,ND,2012,640555,2196828,12663,12569,891
+25966,Theodore Roosevelt,National Park,Midwest ,ND,2013,545090,2105675,13733,13503,841
+25978,Theodore Roosevelt,National Park,Midwest ,ND,2014,559580,2051446,13804,12973,849
+25990,Theodore Roosevelt,National Park,Midwest ,ND,2015,580033,2165040,13967,15011,529
+26002,Theodore Roosevelt,National Park,Midwest ,ND,2016,753880,2623905,14835,17730,232
+26014,Theodore Roosevelt,National Park,Midwest ,ND,2017,708003,2506618,14723,17750,587
+26026,Theodore Roosevelt,National Park,Midwest ,ND,2018,749389,2699165,14707,18235,614
+26038,Theodore Roosevelt,National Park,Midwest ,ND,2019,691658,2657924,16862,20524,735
+26314,Virgin Islands,National Park,Southeast ,VI,2001,677401,4166015,0,0,0
+26326,Virgin Islands,National Park,Southeast ,VI,2002,693494,4264993,0,0,0
+26338,Virgin Islands,National Park,Southeast ,VI,2003,821681,5053348,0,0,0
+26350,Virgin Islands,National Park,Southeast ,VI,2004,793590,4880568,0,0,0
+26362,Virgin Islands,National Park,Southeast ,VI,2005,803040,4938697,0,0,0
+26374,Virgin Islands,National Park,Southeast ,VI,2006,677289,4165323,0,0,0
+26386,Virgin Islands,National Park,Southeast ,VI,2007,571382,3513996,0,0,0
+26398,Virgin Islands,National Park,Southeast ,VI,2008,469034,2884558,0,0,0
+26410,Virgin Islands,National Park,Southeast ,VI,2009,415847,2557468,0,0,0
+26422,Virgin Islands,National Park,Southeast ,VI,2010,493477,3034880,0,0,0
+26434,Virgin Islands,National Park,Southeast ,VI,2011,442414,2720851,0,0,0
+26446,Virgin Islands,National Park,Southeast ,VI,2012,483341,2972554,0,0,0
+26458,Virgin Islands,National Park,Southeast ,VI,2013,438601,2697409,0,0,0
+26470,Virgin Islands,National Park,Southeast ,VI,2014,426930,2625615,0,0,0
+26482,Virgin Islands,National Park,Southeast ,VI,2015,438372,2695983,0,0,0
+26494,Virgin Islands,National Park,Southeast ,VI,2016,411343,2529750,0,0,0
+26506,Virgin Islands,National Park,Southeast ,VI,2017,304408,1872116,0,0,0
+26518,Virgin Islands,National Park,Southeast ,VI,2018,112287,690568,0,0,0
+26530,Virgin Islands,National Park,Southeast ,VI,2019,133398,820391,0,0,0
+26806,Voyageurs,National Park,Midwest ,MN,2001,243374,1285043,0,0,18346
+26818,Voyageurs,National Park,Midwest ,MN,2002,238227,1252210,0,0,17740
+26830,Voyageurs,National Park,Midwest ,MN,2003,234231,1244040,0,0,17657
+26842,Voyageurs,National Park,Midwest ,MN,2004,249041,1361691,0,0,18069
+26854,Voyageurs,National Park,Midwest ,MN,2005,234577,1319072,0,0,18955
+26866,Voyageurs,National Park,Midwest ,MN,2006,231875,1316311,0,0,19023
+26878,Voyageurs,National Park,Midwest ,MN,2007,220650,1252872,0,0,18257
+26890,Voyageurs,National Park,Midwest ,MN,2008,221585,1273353,0,0,18626
+26902,Voyageurs,National Park,Midwest ,MN,2009,222429,1248701,0,0,17776
+26914,Voyageurs,National Park,Midwest ,MN,2010,253891,3934485,0,0,35560
+26926,Voyageurs,National Park,Midwest ,MN,2011,177184,2723742,0,0,21915
+26938,Voyageurs,National Park,Midwest ,MN,2012,214841,3262169,0,0,28837
+26950,Voyageurs,National Park,Midwest ,MN,2013,233390,1396013,0,0,21807
+26962,Voyageurs,National Park,Midwest ,MN,2014,239160,1330620,0,0,31941
+26974,Voyageurs,National Park,Midwest ,MN,2015,238313,1258084,0,0,50462
+26986,Voyageurs,National Park,Midwest ,MN,2016,241912,1303956,0,0,46451
+26998,Voyageurs,National Park,Midwest ,MN,2017,237250,1243694,0,0,53539
+27010,Voyageurs,National Park,Midwest ,MN,2018,239656,1192456,0,0,59499
+27022,Voyageurs,National Park,Midwest ,MN,2019,232974,1180880,0,0,45262
+27298,White Sands,National Park,Intermountain ,NM,2001,518958,775116,0,0,2155
+27310,White Sands,National Park,Intermountain ,NM,2002,498964,838552,0,0,1894
+27322,White Sands,National Park,Intermountain ,NM,2003,492008,891973,0,0,2049
+27334,White Sands,National Park,Intermountain ,NM,2004,448185,741539,0,0,1745
+27346,White Sands,National Park,Intermountain ,NM,2005,450447,733446,0,0,1662
+27358,White Sands,National Park,Intermountain ,NM,2006,440927,703847,0,0,1048
+27370,White Sands,National Park,Intermountain ,NM,2007,437042,720013,0,0,950
+27382,White Sands,National Park,Intermountain ,NM,2008,438511,741638,0,0,1330
+27394,White Sands,National Park,Intermountain ,NM,2009,471167,551260,0,0,1751
+27406,White Sands,National Park,Intermountain ,NM,2010,470921,795960,0,0,1811
+27418,White Sands,National Park,Intermountain ,NM,2011,428924,735185,0,0,2185
+27430,White Sands,National Park,Intermountain ,NM,2012,447385,760066,0,0,2272
+27442,White Sands,National Park,Intermountain ,NM,2013,490544,1236024,0,0,2284
+27454,White Sands,National Park,Intermountain ,NM,2014,503660,1036285,0,0,2087
+27466,White Sands,National Park,Intermountain ,NM,2015,497506,1257203,0,0,3516
+27478,White Sands,National Park,Intermountain ,NM,2016,555793,1409101,0,0,4331
+27490,White Sands,National Park,Intermountain ,NM,2017,612468,1549914,0,0,5259
+27502,White Sands,National Park,Intermountain ,NM,2018,603008,1514201,0,0,4125
+27514,White Sands,National Park,Intermountain ,NM,2019,608785,1521903,0,0,4243
+27790,Wind Cave,National Park,Midwest ,SD,2001,650357,2123024,4897,3155,401
+27802,Wind Cave,National Park,Midwest ,SD,2002,810298,2545981,5367,3190,347
+27814,Wind Cave,National Park,Midwest ,SD,2003,874167,2670264,4974,3652,185
+27826,Wind Cave,National Park,Midwest ,SD,2004,593877,1922119,3600,3450,230
+27838,Wind Cave,National Park,Midwest ,SD,2005,612478,1911327,3352,2518,176
+27850,Wind Cave,National Park,Midwest ,SD,2006,591049,1812924,2809,2289,181
+27862,Wind Cave,National Park,Midwest ,SD,2007,603158,1885178,3023,2748,168
+27874,Wind Cave,National Park,Midwest ,SD,2008,573433,1842370,4069,2248,100
+27886,Wind Cave,National Park,Midwest ,SD,2009,587868,1632237,1035,905,163
+27898,Wind Cave,National Park,Midwest ,SD,2010,577141,1628000,1623,1344,296
+27910,Wind Cave,National Park,Midwest ,SD,2011,538394,1508724,1645,1160,249
+27922,Wind Cave,National Park,Midwest ,SD,2012,529083,1552259,3601,2758,226
+27934,Wind Cave,National Park,Midwest ,SD,2013,516142,1621332,5866,4612,219
+27946,Wind Cave,National Park,Midwest ,SD,2014,547022,1672929,3814,4714,220
+27958,Wind Cave,National Park,Midwest ,SD,2015,612198,1798805,2420,3804,179
+27970,Wind Cave,National Park,Midwest ,SD,2016,617377,1886762,4093,4401,493
+27982,Wind Cave,National Park,Midwest ,SD,2017,619924,1937618,6197,4670,452
+27994,Wind Cave,National Park,Midwest ,SD,2018,656397,1986661,4333,4164,437
+28006,Wind Cave,National Park,Midwest ,SD,2019,615350,1735378,3632,3715,369
+28246,Wrangell-St. Elias & PRES,National Park,Alaska,AK,2001,28643,1317578,0,0,0
+28258,Wrangell-St. Elias & PRES,National Park,Alaska,AK,2002,40352,1856176,0,0,0
+28270,Wrangell-St. Elias & PRES,National Park,Alaska,AK,2003,43311,1992324,0,0,0
+28282,Wrangell-St. Elias & PRES,National Park,Alaska,AK,2004,57221,2632190,0,0,0
+28294,Wrangell-St. Elias & PRES,National Park,Alaska,AK,2005,56224,2586335,0,0,0
+28306,Wrangell-St. Elias & PRES,National Park,Alaska,AK,2006,50336,2315447,0,0,0
+28318,Wrangell-St. Elias & PRES,National Park,Alaska,AK,2007,61085,2809861,0,0,0
+28330,Wrangell-St. Elias & PRES,National Park,Alaska,AK,2008,65693,3021898,0,0,0
+28342,Wrangell-St. Elias & PRES,National Park,Alaska,AK,2009,59966,2758450,0,0,0
+28354,Wrangell-St. Elias & PRES,National Park,Alaska,AK,2010,73170,3365820,0,0,0
+28366,Wrangell-St. Elias & PRES,National Park,Alaska,AK,2011,65225,3000338,0,0,0
+28378,Wrangell-St. Elias & PRES,National Park,Alaska,AK,2012,87158,4009248,0,0,0
+28390,Wrangell-St. Elias & PRES,National Park,Alaska,AK,2013,69984,3219297,0,0,0
+28402,Wrangell-St. Elias & PRES,National Park,Alaska,AK,2014,74722,3437186,0,0,0
+28414,Wrangell-St. Elias & PRES,National Park,Alaska,AK,2015,80366,3696810,0,0,0
+28426,Wrangell-St. Elias & PRES,National Park,Alaska,AK,2016,79047,3636217,0,0,0
+28438,Wrangell-St. Elias & PRES,National Park,Alaska,AK,2017,68292,3141451,0,0,0
+28450,Wrangell-St. Elias & PRES,National Park,Alaska,AK,2018,79450,3654688,0,0,0
+28462,Wrangell-St. Elias & PRES,National Park,Alaska,AK,2019,74518,3427825,0,0,0
+28738,Yellowstone,National Park,Intermountain ,WY,2001,2758526,62969088,76297,63635,43111
+28750,Yellowstone,National Park,Intermountain ,WY,2002,2973677,66522626,75974,62670,43682
+28762,Yellowstone,National Park,Intermountain ,WY,2003,3019375,66260453,82134,69722,46087
+28774,Yellowstone,National Park,Intermountain ,WY,2004,2868317,63397708,71271,65852,38270
+28786,Yellowstone,National Park,Intermountain ,WY,2005,2835651,62579911,69452,64136,33974
+28798,Yellowstone,National Park,Intermountain ,WY,2006,2870295,61831455,70963,62487,37276
+28810,Yellowstone,National Park,Intermountain ,WY,2007,3151343,68719503,77754,66632,38040
+28822,Yellowstone,National Park,Intermountain ,WY,2008,3066580,65459417,78035,57879,39603
+28834,Yellowstone,National Park,Intermountain ,WY,2009,3295187,70157772,83465,64637,39736
+28846,Yellowstone,National Park,Intermountain ,WY,2010,3640185,75033809,87580,69825,45045
+28858,Yellowstone,National Park,Intermountain ,WY,2011,3394326,71475307,79585,60168,37292
+28870,Yellowstone,National Park,Intermountain ,WY,2012,3447729,73778317,89249,64463,40460
+28882,Yellowstone,National Park,Intermountain ,WY,2013,3188030,70261725,88762,63897,40623
+28894,Yellowstone,National Park,Intermountain ,WY,2014,3513484,73680075,86281,77383,41243
+28906,Yellowstone,National Park,Intermountain ,WY,2015,4097710,82016845,104149,69830,44898
+28918,Yellowstone,National Park,Intermountain ,WY,2016,4257177,84411927,101639,68991,44663
+28930,Yellowstone,National Park,Intermountain ,WY,2017,4116524,84149763,96293,69723,43378
+28942,Yellowstone,National Park,Intermountain ,WY,2018,4115000,84567084,88562,74771,41978
+28954,Yellowstone,National Park,Intermountain ,WY,2019,4020288,80349419,81022,80294,38236
+29230,Yosemite,National Park,Pacific West ,CA,2001,3368731,62824723,473303,195916,100207
+29242,Yosemite,National Park,Pacific West ,CA,2002,3361867,64429885,485461,206128,125027
+29254,Yosemite,National Park,Pacific West ,CA,2003,3378664,63847386,471765,220764,85674
+29266,Yosemite,National Park,Pacific West ,CA,2004,3280911,61600922,468577,201836,82259
+29278,Yosemite,National Park,Pacific West ,CA,2005,3304144,60159130,449149,201504,70803
+29290,Yosemite,National Park,Pacific West ,CA,2006,3242644,60134718,436432,203252,81305
+29302,Yosemite,National Park,Pacific West ,CA,2007,3503428,61573431,437429,206000,76576
+29314,Yosemite,National Park,Pacific West ,CA,2008,3431514,64270783,458265,214360,137330
+29326,Yosemite,National Park,Pacific West ,CA,2009,3737472,66311694,481492,212244,158233
+29338,Yosemite,National Park,Pacific West ,CA,2010,3901408,67692499,526026,265920,125136
+29350,Yosemite,National Park,Pacific West ,CA,2011,3951393,65414044,505390,226304,103420
+29362,Yosemite,National Park,Pacific West ,CA,2012,3853404,67760801,537451,260136,168783
+29374,Yosemite,National Park,Pacific West ,CA,2013,3691191,64042982,459565,241656,172353
+29386,Yosemite,National Park,Pacific West ,CA,2014,3882642,67576000,480094,166744,190339
+29398,Yosemite,National Park,Pacific West ,CA,2015,4150217,78505877,588701,284372,211966
+29410,Yosemite,National Park,Pacific West ,CA,2016,5028868,77763403,490431,376744,216989
+29422,Yosemite,National Park,Pacific West ,CA,2017,4336890,71264549,456476,293844,167507
+29434,Yosemite,National Park,Pacific West ,CA,2018,4009436,59529503,354819,259748,124577
+29446,Yosemite,National Park,Pacific West ,CA,2019,4422861,65508566,469585,211948,155578
+29722,Zion,National Park,Intermountain ,UT,2001,2217779,15410897,80640,62568,28142
+29734,Zion,National Park,Intermountain ,UT,2002,2592545,17371497,90747,57064,28767
+29746,Zion,National Park,Intermountain ,UT,2003,2458792,16857420,89449,57670,26368
+29758,Zion,National Park,Intermountain ,UT,2004,2677342,17472187,90686,65894,23027
+29770,Zion,National Park,Intermountain ,UT,2005,2586665,17539924,91138,67936,20603
+29782,Zion,National Park,Intermountain ,UT,2006,2567350,17517105,91477,66127,29028
+29794,Zion,National Park,Intermountain ,UT,2007,2657281,18167531,94749,72332,27446
+29806,Zion,National Park,Intermountain ,UT,2008,2690154,18616447,97468,74411,35746
+29818,Zion,National Park,Intermountain ,UT,2009,2735402,19043273,101510,73146,41933
+29830,Zion,National Park,Intermountain ,UT,2010,2665972,18586475,98189,72805,36544
+29842,Zion,National Park,Intermountain ,UT,2011,2825505,19520895,102922,72333,40344
+29854,Zion,National Park,Intermountain ,UT,2012,2973607,21048026,111096,78864,48932
+29866,Zion,National Park,Intermountain ,UT,2013,2807387,20643685,112429,76253,54336
+29878,Zion,National Park,Intermountain ,UT,2014,3189696,22366160,126194,77932,23257
+29890,Zion,National Park,Intermountain ,UT,2015,3648846,25028289,133528,73783,24655
+29902,Zion,National Park,Intermountain ,UT,2016,4295127,28963497,137442,70728,28248
+29914,Zion,National Park,Intermountain ,UT,2017,4504812,30274711,138245,72425,25470
+29926,Zion,National Park,Intermountain ,UT,2018,4320033,29913878,132988,72016,22964
+29938,Zion,National Park,Intermountain ,UT,2019,4488268,28715546,118290,78704,18320
